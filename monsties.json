@@ -1,0 +1,4161 @@
+{
+  "monsties": [
+    {
+      "id": "001",
+      "rank": "1",
+      "monster": "aptonoth",
+      "monstie": "true",
+      "tendency": "power",
+      "size": "small",
+      "type": "herbivores",
+      "img": "/assets/images/001/render.png",
+      "thumbnail": "/assets/images/001/icon.webp",
+      "descrip": "placid, crested herbivorous monsters. They form herds and raise their young as a community.",
+      "stats": [
+        {
+          "health": "2",
+          "attack": "1",
+          "defense": "2",
+          "agility": "1"
+        }
+      ],
+      "attact": [
+        {
+          "fire": "3",
+          "water": "3",
+          "thunder": "3",
+          "ice": "3",
+          "dragon": "3"
+        }
+      ],
+      "defense": [
+        {
+          "fire": "1",
+          "water": "1",
+          "thunder": "1",
+          "ice": "1",
+          "dragon": "5"
+        }
+      ],
+      "ride-action": [
+        {
+          "active": "",
+          "pasive": "plant detect"
+        }
+      ],
+      "eggs": [
+        {
+          "bg-egg": "rgb(246,164,201)",
+          "pt-egg": "/assets/images/001/pattern1.png"
+        },
+        {
+          "bg-egg": "rgb(122,165,29)",
+          "pt-egg": "/assets/images/001/pattern1.png"
+        },
+        {
+          "bg-egg": "rgb(246,164,201)",
+          "pt-egg": "/assets/images/001/pattern2.png"
+        },
+        {
+          "bg-egg": "rgb(122,165,29)",
+          "pt-egg": "/assets/images/001/pattern2.png"
+        }
+      ]
+    },
+    {
+      "id": "007",
+      "rank": "1",
+      "monster": "velocidrome",
+      "monstie": "true",
+      "tendency": "Speed",
+      "size": "large",
+      "type": "bird wyverns",
+      "img": "/assets/images/007/render.png",
+      "thumbnail": "assets/007/icon.webp",
+      "descrip": "alpha monsters that lead the smaller Velociprey. Note their larger size, impressive frill, and sharper claws.",
+      "stats": [
+        {
+          "health": "1",
+          "attack": "1",
+          "defense": "1",
+          "agility": "4"
+        }
+      ],
+      "attact": [
+        {
+          "fire": "3",
+          "water": "3",
+          "thunder": "3",
+          "ice": "3",
+          "dragon": "4"
+        }
+      ],
+      "defense": [
+        {
+          "fire": "3",
+          "water": "3",
+          "thunder": "3",
+          "ice": "1",
+          "dragon": "5"
+        }
+      ],
+      "ride-action": [
+        {
+          "active": "jump",
+          "pasive": ""
+        }
+      ],
+      "eggs": [
+        {
+          "bg-egg": "rgb(46,189,255)",
+          "pt-egg": "./assets/images/007/pattern1.png"
+        },
+        {
+          "bg-egg": "rgb(255,190,230)",
+          "pt-egg": "./assets/images/007/pattern1.png"
+        },
+        {
+          "bg-egg": "rgb(46,189,255)",
+          "pt-egg": "./assets/images/007/pattern2.png"
+        },
+        {
+          "bg-egg": "rgb(255,190,230)",
+          "pt-egg": "./assets/images/007/pattern2.png"
+        }
+      ]
+    },
+    {
+      "id": "008",
+      "rank": "2",
+      "monster": "arzuros",
+      "monstie": "true",
+      "tendency": "Power",
+      "size": "large",
+      "type": "fanged beasts",
+      "img": "/assets/images/008/render.png",
+      "thumbnail": "/assets/images/008/icon.webp",
+      "descrip": "bear-like monsters found in warm, damp environments. Can often be found catching fish from rivers.",
+      "stats": [
+        {
+          "health": "2",
+          "attack": "1",
+          "defense": "4",
+          "agility": "2"
+        }
+      ],
+      "attact": [
+        {
+          "fire": "3",
+          "water": "4",
+          "thunder": "3",
+          "ice": "3",
+          "dragon": "3"
+        }
+      ],
+      "defense": [
+        {
+          "fire": "1",
+          "water": "5",
+          "thunder": "2",
+          "ice": "3",
+          "dragon": "3"
+        }
+      ],
+      "ride-action": [
+        {
+          "active": "rock smash",
+          "pasive": "honey detect"
+        }
+      ],
+      "eggs": [
+        {
+          "bg-egg": "rgb(172,238,108)",
+          "pt-egg": "/assets/images/008/pattern1.png"
+        },
+        {
+          "bg-egg": "rgb(98,118,244)",
+          "pt-egg": "/assets/images/008/pattern1.png"
+        },
+        {
+          "bg-egg": "rgb(172,238,108)",
+          "pt-egg": "./assets/images/008/pattern2.png"
+        },
+        {
+          "bg-egg": "rgb(98,118,244)",
+          "pt-egg": "./assets/images/008/pattern2.png"
+        }
+      ]
+    },
+    {
+      "id": "009",
+      "rank": "2",
+      "monster": "yian kut-ku",
+      "monstie": "true",
+      "tendency": "technique",
+      "size": "large",
+      "type": "Bird Wyverns",
+      "img": "/assets/images/009/render.png",
+      "thumbnail": "/assets/images/009/icon.webp",
+      "descrip": "Monsters boasting ample beaks and fan-like ears that splay open when angered. Konchu are a staple food.",
+      "stats": [
+        {
+          "health": "2",
+          "attack": "1",
+          "defense": "3",
+          "agility": "4"
+        }
+      ],
+      "attact": [
+        {
+          "fire": "4",
+          "water": "3",
+          "thunder": "3",
+          "ice": "2",
+          "dragon": "3"
+        }
+      ],
+      "defense": [
+        {
+          "fire": "5",
+          "water": "3",
+          "thunder": "3",
+          "ice": "1",
+          "dragon": "3"
+        }
+      ],
+      "ride-action": [
+        {
+          "active": "rock detect",
+          "pasive": "monster detect"
+        }
+      ],
+      "eggs": [
+        {
+          "bg-egg": "rgb(255,225,0)",
+          "pt-egg": "/assets/images/009/pattern1.png"
+        },
+        {
+          "bg-egg": "rgb(253,110,218)",
+          "pt-egg": "/assets/images/009/pattern1.png"
+        },
+        {
+          "bg-egg": "rgb(255,225,0)",
+          "pt-egg": "/assets/images/009/pattern2.png"
+        },
+        {
+          "bg-egg": "rgb(253,110,218)",
+          "pt-egg": "/assets/images/009/pattern2.png"
+        }
+      ]
+    },
+    {
+      "id": "010",
+      "rank": "2",
+      "monster": "blue yian kut-ku",
+      "monstie": "true",
+      "tendency": "technique",
+      "size": "large",
+      "type": "bird wyverns",
+      "img": "/assets/images/010/render.png",
+      "thumbnail": "/assets/images/010/icon.webp",
+      "descrip": "A Yian Kut-Ku subspecies. Their blue coloration and physical prowess set them apart from their pink kin.",
+      "stats": [
+        {
+          "health": "2",
+          "attack": "2",
+          "defense": "3",
+          "agility": "4"
+        }
+      ],
+      "attact": [
+        {
+          "fire": "5",
+          "water": "2",
+          "thunder": "3",
+          "ice": "3",
+          "dragon": "3"
+        }
+      ],
+      "defense": [
+        {
+          "fire": "5",
+          "water": "2",
+          "thunder": "3",
+          "ice": "3",
+          "dragon": "3"
+        }
+      ],
+      "ride-action": [
+        {
+          "active": "rock smash",
+          "pasive": "monster detect"
+        }
+      ],
+      "eggs": [
+        {
+          "bg-egg": "rgb(122,255,131)",
+          "pt-egg": "/assets/images/010/pattern1.png"
+        },
+        {
+          "bg-egg": "rgb(0,218,164)",
+          "pt-egg": "/assets/images/010/pattern1.png"
+        },
+        {
+          "bg-egg": "rgb(122,255,131)",
+          "pt-egg": "/assets/images/010/pattern2.png"
+        },
+        {
+          "bg-egg": "rgb(0,218,164)",
+          "pt-egg": "/assets/images/010/pattern2.png"
+        }
+      ]
+    },
+    {
+      "id": "011",
+      "rank": "1",
+      "monster": "popo",
+      "monstie": "true",
+      "tendency": "power",
+      "size": "small",
+      "type": "herbivores",
+      "img": "/assets/images/011/render.png",
+      "thumbnail": "/assets/images/011/icon.webp",
+      "descrip": "herd-forming Herbivores covered in long, thick fur. Popo meat is nutritious and prized by gourmands.",
+      "stats": [
+        {
+          "health": "4",
+          "attack": "1",
+          "defense": "2",
+          "agility": "1"
+        }
+      ],
+      "attact": [
+        {
+          "fire": "2",
+          "water": "3",
+          "thunder": "3",
+          "ice": "5",
+          "dragon": "3"
+        }
+      ],
+      "defense": [
+        {
+          "fire": "1",
+          "water": "3",
+          "thunder": "2",
+          "ice": "5",
+          "dragon": "3"
+        }
+      ],
+      "ride-action": [
+        {
+          "active": "",
+          "pasive": "plant detect"
+        }
+      ],
+      "eggs": [
+        {
+          "bg-egg": "rgb(183,93,50)",
+          "pt-egg": "/assets/images/011/pattern1.png"
+        },
+        {
+          "bg-egg": "rgb(4,230,190)",
+          "pt-egg": "/assets/images/011/pattern1.png"
+        },
+        {
+          "bg-egg": "rgb(183,93,50)",
+          "pt-egg": "/assets/images/011/pattern2.png"
+        },
+        {
+          "bg-egg": "rgb(4,230,190)",
+          "pt-egg": "/assets/images/011/pattern2.png"
+        }
+      ]
+    },
+    {
+      "id": "015",
+      "rank": "2",
+      "monster": "lagombi",
+      "monstie": "true",
+      "tendency": "speed",
+      "size": "large",
+      "type": "fanged beasts",
+      "img": "/assets/images/015/render.png",
+      "thumbnail": "/assets/images/015/icon.webp",
+      "descrip": "white Fanged Beasts with acute hearing. They slide on the ice at high speeds to chase down their prey.",
+      "stats": [
+        {
+          "health": "2",
+          "attack": "2",
+          "defense": "3",
+          "agility": "3"
+        }
+      ],
+      "attact": [
+        {
+          "fire": "1",
+          "water": "4",
+          "thunder": "2",
+          "ice": "5",
+          "dragon": "3"
+        }
+      ],
+      "defense": [
+        {
+          "fire": "1",
+          "water": "5",
+          "thunder": "1",
+          "ice": "5",
+          "dragon": "3"
+        }
+      ],
+      "ride-action": [
+        {
+          "active": "rock smash",
+          "pasive": "mushroom detect"
+        }
+      ],
+      "eggs": [
+        {
+          "bg-egg": "rgb(246,164,201)",
+          "pt-egg": "/assets/images/015/pattern1.png"
+        },
+        {
+          "bg-egg": "rgb(238,242,206)",
+          "pt-egg": "/assets/images/015/pattern1.png"
+        },
+        {
+          "bg-egg": "rgb(246,164,201)",
+          "pt-egg": "/assets/images/015/pattern2.png"
+        },
+        {
+          "bg-egg": "rgb(238,242,206)",
+          "pt-egg": "/assets/images/015/pattern2.png"
+        }
+      ]
+    },
+    {
+      "id": "016",
+      "rank": "1",
+      "monster": "bulldrome",
+      "monstie": "true",
+      "tendency": "power",
+      "size": "small",
+      "type": "fanged beasts",
+      "img": "/assets/images/016/render.png",
+      "thumbnail": "/assets/images/016/icon.webp",
+      "descrip": "powerful alpha monsters that lead Bullfango herds. They mow down their prey with their sturdy tusks.",
+      "stats": [
+        {
+          "health": "3",
+          "attack": "5",
+          "defense": "1",
+          "agility": "3"
+        }
+      ],
+      "attact": [
+        {
+          "fire": "3",
+          "water": "3",
+          "thunder": "2",
+          "ice": "4",
+          "dragon": "3"
+        }
+      ],
+      "defense": [
+        {
+          "fire": "2",
+          "water": "3",
+          "thunder": "1",
+          "ice": "4",
+          "dragon": "3"
+        }
+      ],
+      "ride-action": [
+        {
+          "active": "rush",
+          "pasive": ""
+        }
+      ],
+      "eggs": [
+        {
+          "bg-egg": "rgb(161,104,69)",
+          "pt-egg": "/assets/images/016/pattern1.png"
+        },
+        {
+          "bg-egg": "rgb(255,246,146)",
+          "pt-egg": "/assets/images/016/pattern1.png"
+        },
+        {
+          "bg-egg": "rgb(161,104,69)",
+          "pt-egg": "/assets/images/016/pattern2.png"
+        },
+        {
+          "bg-egg": "rgb(255,246,146)",
+          "pt-egg": "/assets/images/016/pattern2.png"
+        }
+      ]
+    },
+    {
+      "id": "017",
+      "rank": "3",
+      "monster": "zamtrios",
+      "monstie": "true",
+      "tendency": "technique",
+      "size": "large",
+      "type": "amphibians ",
+      "img": "/assets/images/017/render.png",
+      "thumbnail": "/assets/images/017/icon.webp",
+      "descrip": "amphibian monsters known for the astonishing changes that occur when they coat their bodies in icy armor.",
+      "stats": [
+        {
+          "health": "4",
+          "attack": "2",
+          "defense": "4",
+          "agility": "3"
+        }
+      ],
+      "attact": [
+        {
+          "fire": "2",
+          "water": "5",
+          "thunder": "1",
+          "ice": "5",
+          "dragon": "3"
+        }
+      ],
+      "defense": [
+        {
+          "fire": "1",
+          "water": "5",
+          "thunder": "1",
+          "ice": "5",
+          "dragon": "3"
+        }
+      ],
+      "ride-action": [
+        {
+          "active": "swim",
+          "pasive": "monster detect"
+        }
+      ],
+      "eggs": [
+        {
+          "bg-egg": "rgb(255,225,0)",
+          "pt-egg": "/assets/images/017/pattern1.png"
+        },
+        {
+          "bg-egg": "rgb(0,197,199)",
+          "pt-egg": "/assets/images/017/pattern1.png"
+        },
+        {
+          "bg-egg": "rgb(255,225,0)",
+          "pt-egg": "/assets/images/017/pattern2.png"
+        },
+        {
+          "bg-egg": "rgb(0,197,199)",
+          "pt-egg": "/assets/images/017/pattern2.png"
+        }
+      ]
+    },
+    {
+      "id": "018",
+      "rank": "3",
+      "monster": "khezu",
+      "monstie": "true",
+      "tendency": "technique",
+      "size": "large",
+      "type": "flying wyverns",
+      "img": "/assets/images/018/render.png",
+      "thumbnail": "/assets/images/018/icon.webp",
+      "descrip": "loathsome flying wyverns dwelling mainly in caves. They generate and release electricity to deadly effect.",
+      "stats": [
+        {
+          "health": "4",
+          "attack": "2",
+          "defense": "4",
+          "agility": "2"
+        }
+      ],
+      "attact": [
+        {
+          "fire": "1",
+          "water": "3",
+          "thunder": "5",
+          "ice": "3",
+          "dragon": "3"
+        }
+      ],
+      "defense": [
+        {
+          "fire": "1",
+          "water": "3",
+          "thunder": "5",
+          "ice": "3",
+          "dragon": "3"
+        }
+      ],
+      "ride-action": [
+        {
+          "active": "roar",
+          "pasive": ""
+        }
+      ],
+      "eggs": [
+        {
+          "bg-egg": "rgb(187,240,246)",
+          "pt-egg": "/assets/images/018/pattern1.png"
+        },
+        {
+          "bg-egg": "rgb(252,243,100)",
+          "pt-egg": "/assets/images/018/pattern1.png"
+        },
+        {
+          "bg-egg": "rgb(187,240,246)",
+          "pt-egg": "/assets/images/018/pattern2.png"
+        },
+        {
+          "bg-egg": "rgb(252,243,100)",
+          "pt-egg": "/assets/images/018/pattern2.png"
+        }
+      ]
+    },
+    {
+      "id": "019",
+      "rank": "3",
+      "monster": "red khezu",
+      "monstie": "true",
+      "tendency": "technique",
+      "size": "large",
+      "type": "flying wyverns",
+      "img": "/assets/images/019/render.png",
+      "thumbnail": "/assets/images/019/icon.webp",
+      "descrip": "khezu subspecies with red bodies. Its electrical power is far more advanced than that of its white cousin.",
+      "stats": [
+        {
+          "health": "3",
+          "attack": "4",
+          "defense": "4",
+          "agility": "2"
+        }
+      ],
+      "attact": [
+        {
+          "fire": "3",
+          "water": "1",
+          "thunder": "5",
+          "ice": "3",
+          "dragon": "3"
+        }
+      ],
+      "defense": [
+        {
+          "fire": "3",
+          "water": "1",
+          "thunder": "5",
+          "ice": "3",
+          "dragon": "3"
+        }
+      ],
+      "ride-action": [
+        {
+          "active": "roar",
+          "pasive": ""
+        }
+      ],
+      "eggs": [
+        {
+          "bg-egg": "rgb(221,16,17)",
+          "pt-egg": "/assets/images/019/pattern1.png"
+        },
+        {
+          "bg-egg": "rgb(254,130,151)",
+          "pt-egg": "/assets/images/019/pattern1.png"
+        },
+        {
+          "bg-egg": "rgb(221,16,17)",
+          "pt-egg": "/assets/images/019/pattern2.png"
+        },
+        {
+          "bg-egg": "rgb254,130,151)",
+          "pt-egg": "/assets/images/019/pattern2.png"
+        }
+      ]
+    },
+    {
+      "id": "021",
+      "rank": "2",
+      "monster": "apceros",
+      "monstie": "2",
+      "tendency": "power",
+      "size": "small",
+      "type": "herbivores",
+      "img": "/assets/images/021/render.png",
+      "thumbnail": "/assets/images/021/icon.webp",
+      "descrip": "herbivores clad in sturdy, armor-like plates. Approach with caution to avoid a fierce and persistent chase.",
+      "stats": [
+        {
+          "health": "1",
+          "attack": "1",
+          "defense": "4",
+          "agility": "2"
+        }
+      ],
+      "attact": [
+        {
+          "fire": "3",
+          "water": "4",
+          "thunder": "3",
+          "ice": "3",
+          "dragon": "3"
+        }
+      ],
+      "defense": [
+        {
+          "fire": "2",
+          "water": "5",
+          "thunder": "1",
+          "ice": "3",
+          "dragon": "3"
+        }
+      ],
+      "ride-action": [
+        {
+          "active": "",
+          "pasive": "plant detect"
+        }
+      ],
+      "eggs": [
+        {
+          "bg-egg": "rgb(255,115,46)",
+          "pt-egg": "/assets/images/021/pattern1.png"
+        },
+        {
+          "bg-egg": "rgb(255,240,100)",
+          "pt-egg": "/assets/images/021/pattern1.png"
+        },
+        {
+          "bg-egg": "rgb(255,115,46)",
+          "pt-egg": "/assets/images/021/pattern2.png"
+        },
+        {
+          "bg-egg": "rgb(255,240,100)",
+          "pt-egg": "/assets/images/021/pattern2.png"
+        }
+      ]
+    },
+    {
+      "id": "029",
+      "rank": "2",
+      "monster": "gendrome",
+      "monstie": "true",
+      "tendency": "speed",
+      "size": "large",
+      "type": "bird wyverns",
+      "img": "/assets/images/029/render.png",
+      "thumbnail": "/assets/images/029/icon.webp",
+      "descrip": "alpha monsters that lead Genprey. Paralyzing venom tips their highly-developed fangs and claws.",
+      "stats": [
+        {
+          "health": "1",
+          "attack": "1",
+          "defense": "1",
+          "agility": "4"
+        }
+      ],
+      "attact": [
+        {
+          "fire": "3",
+          "water": "3",
+          "thunder": "3",
+          "ice": "2",
+          "dragon": "4"
+        }
+      ],
+      "defense": [
+        {
+          "fire": "3",
+          "water": "3",
+          "thunder": "3",
+          "ice": "1",
+          "dragon": "5"
+        }
+      ],
+      "ride-action": [
+        {
+          "active": "jump",
+          "pasive": ""
+        }
+      ],
+      "eggs": [
+        {
+          "bg-egg": "rgb(140,234,6)",
+          "pt-egg": "/assets/images/029/pattern1.png"
+        },
+        {
+          "bg-egg": "rgb(250,118,230)",
+          "pt-egg": "/assets/images/029/pattern1.png"
+        },
+        {
+          "bg-egg": "rgb(140,234,6)",
+          "pt-egg": "/assets/images/029/pattern2.png"
+        },
+        {
+          "bg-egg": "rgb(250,118,230)",
+          "pt-egg": "/assets/images/029/pattern2.png"
+        }
+      ]
+    },
+    {
+      "id": "030",
+      "rank": "3",
+      "monster": "royal ludroth",
+      "monstie": "true",
+      "tendency": "power",
+      "size": "large",
+      "type": "leviathan",
+      "img": "/assets/images/030/render.png",
+      "thumbnail": "assets/030/icon.webp",
+      "descrip": "royal ludroth use their sponge-like neck scales to absorb water and prevent dehydration.",
+      "stats": [
+        {
+          "health": "2",
+          "attack": "2",
+          "defense": "2",
+          "agility": "3"
+        }
+      ],
+      "attact": [
+        {
+          "fire": "1",
+          "water": "5",
+          "thunder": "3",
+          "ice": "3",
+          "dragon": "3"
+        }
+      ],
+      "defense": [
+        {
+          "fire": "1",
+          "water": "5",
+          "thunder": "3",
+          "ice": "3",
+          "dragon": "3"
+        }
+      ],
+      "ride-action": [
+        {
+          "active": "swim",
+          "pasive": "fish detect"
+        }
+      ],
+      "eggs": [
+        {
+          "bg-egg": "rgb(255,220,0)",
+          "pt-egg": "/assets/images/030/pattern1.png"
+        },
+        {
+          "bg-egg": "rgb(255,177,188)",
+          "pt-egg": "/assets/images/030/pattern1.png"
+        },
+        {
+          "bg-egg": "rgb(255,220,0)",
+          "pt-egg": "/assets/images/030/pattern2.png"
+        },
+        {
+          "bg-egg": "rgb(255,177,188)",
+          "pt-egg": "/assets/images/030/pattern2.png"
+        }
+      ]
+    },
+    {
+      "id": "031",
+      "rank": "3",
+      "monster": "gypceros",
+      "monstie": "true",
+      "tendency": "technique",
+      "size": "large",
+      "type": "bird wyvern",
+      "img": "",
+      "thumbnail": "https://static.wikia.nocookie.net/monsterhunter/images/1/1d/MHST-Gypceros_Icon.png",
+      "descrip": "crested Bird Wyverns. They strike their crests to generate blinding flashes and dazzle their enemies.",
+      "stats": [
+        {
+          "health": "2",
+          "attack": "1",
+          "defense": "4",
+          "agility": "3"
+        }
+      ],
+      "attact": [
+        {
+          "fire": "2",
+          "water": "3",
+          "thunder": "5",
+          "ice": "3",
+          "dragon": "3"
+        }
+      ],
+      "defense": [
+        {
+          "fire": "1",
+          "water": "3",
+          "thunder": "5",
+          "ice": "3",
+          "dragon": "3"
+        }
+      ],
+      "ride-action": [
+        {
+          "active": "charge",
+          "pasive": ""
+        }
+      ],
+      "eggs": [
+        {
+          "bg-egg": "rgb(0,174,217)",
+          "pt-egg": "/assets/images/031/pattern1.png"
+        },
+        {
+          "bg-egg": "rgb(255,239,124)",
+          "pt-egg": "/assets/images/031/pattern1.png"
+        },
+        {
+          "bg-egg": "rgb(0,174,217)",
+          "pt-egg": "/assets/images/031/pattern2.png"
+        },
+        {
+          "bg-egg": "rgb(255,239,124)",
+          "pt-egg": "/assets/images/031/pattern2.png"
+        }
+      ]
+    },
+    {
+      "id": "032",
+      "rank": "3",
+      "monster": "nerscylla",
+      "monstie": "true",
+      "tendency": "technique",
+      "size": "large",
+      "type": "temnocerans",
+      "img": "/assets/images/032/render.png",
+      "thumbnail": "/assets/images/032/icon.webp",
+      "descrip": "temnocerans that build nests of sticky webbing to ensnare prey, which they rend with their mandibles.",
+      "stats": [
+        {
+          "health": "2",
+          "attack": "2",
+          "defense": "4",
+          "agility": "3"
+        }
+      ],
+      "attact": [
+        {
+          "fire": "3",
+          "water": "5",
+          "thunder": "3",
+          "ice": "3",
+          "dragon": "3"
+        }
+      ],
+      "defense": [
+        {
+          "fire": "1",
+          "water": "5",
+          "thunder": "2",
+          "ice": "3",
+          "dragon": "3"
+        }
+      ],
+      "ride-action": [
+        {
+          "active": "climb",
+          "pasive": "monster detect"
+        }
+      ],
+      "eggs": [
+        {
+          "bg-egg": "rgb(162,0,255)",
+          "pt-egg": "/assets/images/032/pattern1.png"
+        },
+        {
+          "bg-egg": "rgb(250,181,22)",
+          "pt-egg": "/assets/images/032/pattern1.png"
+        },
+        {
+          "bg-egg": "rgb(162,0,255)",
+          "pt-egg": "/assets/images/032/pattern2.png"
+        },
+        {
+          "bg-egg": "rgb(250,181,22)",
+          "pt-egg": "/assets/images/032/pattern2.png"
+        }
+      ]
+    },
+    {
+      "id": "033",
+      "rank": "4",
+      "monster": "shrouded nerscylla",
+      "monstie": "true",
+      "tendency": "technique",
+      "size": "large",
+      "type": "temnocerans",
+      "img": "/assets/images/033/render.png",
+      "thumbnail": "/assets/images/033/icon.webp",
+      "descrip": "temnocerans that inhabit desert areas. They lurk beneath the sands in order ambush unwary prey.",
+      "stats": [
+        {
+          "health": "2",
+          "attack": "2",
+          "defense": "3",
+          "agility": "4"
+        }
+      ],
+      "attact": [
+        {
+          "fire": "3",
+          "water": "5",
+          "thunder": "3",
+          "ice": "3",
+          "dragon": "3"
+        }
+      ],
+      "defense": [
+        {
+          "fire": "2",
+          "water": "5",
+          "thunder": "3",
+          "ice": "1",
+          "dragon": "3"
+        }
+      ],
+      "ride-action": [
+        {
+          "active": "climb",
+          "pasive": "monster detect"
+        }
+      ],
+      "eggs": [
+        {
+          "bg-egg": "rgb(216,225,250)",
+          "pt-egg": "/assets/images/033/pattern1.png"
+        },
+        {
+          "bg-egg": "rgb(7,211,213)",
+          "pt-egg": "/assets/images/033/pattern1.png"
+        },
+        {
+          "bg-egg": "rgb(216,225,250)",
+          "pt-egg": "/assets/images/033/pattern2.png"
+        },
+        {
+          "bg-egg": "rgb(7,211,213)",
+          "pt-egg": "/assets/images/033/pattern2.png"
+        }
+      ]
+    },
+    {
+      "id": "034",
+      "rank": "2",
+      "monster": "qurupeco",
+      "monstie": "true",
+      "tendency": "technique",
+      "size": "large",
+      "type": "bird wyvern",
+      "img": "/assets/images/034/render.png",
+      "thumbnail": "/assets/images/034/icon.webp",
+      "descrip": "Bird Wyverns with colourful plumage. Using thoracic vocal organs they imitate the calls of other monsters.",
+      "stats": [
+        {
+          "health": "2",
+          "attack": "2",
+          "defense": "3",
+          "agility": "4"
+        }
+      ],
+      "attact": [
+        {
+          "fire": "5",
+          "water": "3",
+          "thunder": "3",
+          "ice": "2",
+          "dragon": "3"
+        }
+      ],
+      "defense": [
+        {
+          "fire": "5",
+          "water": "3",
+          "thunder": "3",
+          "ice": "1",
+          "dragon": "3"
+        }
+      ],
+      "ride-action": [
+        {
+          "active": "summon",
+          "pasive": ""
+        }
+      ],
+      "eggs": [
+        {
+          "bg-egg": "rgb(176,245,103)",
+          "pt-egg": "/assets/images/034/pattern1.png"
+        },
+        {
+          "bg-egg": "rgb(255,225,0)",
+          "pt-egg": "/assets/images/034/pattern1.png"
+        },
+        {
+          "bg-egg": "rgb(176,245,103)",
+          "pt-egg": "/assets/images/034/pattern2.png"
+        },
+        {
+          "bg-egg": "rgb(255,225,0)",
+          "pt-egg": "/assets/images/034/pattern2.png"
+        }
+      ]
+    },
+    {
+      "id": "035",
+      "rank": "3",
+      "monster": "rathian",
+      "monstie": "true",
+      "tendency": "speed",
+      "size": "large",
+      "type": "flying wyverns",
+      "img": "/assets/images/035/render.png",
+      "thumbnail": "/assets/images/035/icon.webp",
+      "descrip": "female flying wyverns dubbed Queens of the Land. Possess powerful legs, and deadly, poisonous tails.",
+      "stats": [
+        {
+          "health": "5",
+          "attack": "2",
+          "defense": "4",
+          "agility": "3"
+        }
+      ],
+      "attact": [
+        {
+          "fire": "5",
+          "water": "3",
+          "thunder": "2",
+          "ice": "3",
+          "dragon": "2"
+        }
+      ],
+      "defense": [
+        {
+          "fire": "5",
+          "water": "3",
+          "thunder": "2",
+          "ice": "3",
+          "dragon": "1"
+        }
+      ],
+      "ride-action": [
+        {
+          "active": "",
+          "pasive": "den detect"
+        }
+      ],
+      "eggs": [
+        {
+          "bg-egg": "rgb(255,245,174)",
+          "pt-egg": "/assets/images/035/pattern1.png"
+        },
+        {
+          "bg-egg": "rgb(227,111,25)",
+          "pt-egg": "/assets/images/035/pattern1.png"
+        },
+        {
+          "bg-egg": "rgb(255,245,174)",
+          "pt-egg": "/assets/images/035/pattern2.png"
+        },
+        {
+          "bg-egg": "rgb(227,111,25)",
+          "pt-egg": "/assets/images/035/pattern2.png"
+        }
+      ]
+    },
+    {
+      "id": "036",
+      "rank": "4",
+      "monster": "pink rathian",
+      "monstie": "true",
+      "tendency": "speed",
+      "size": "large",
+      "type": "flying wyverns",
+      "img": "/assets/images/036/render.png",
+      "thumbnail": "/assets/images/036/icon.webp",
+      "descrip": "a vivid, pink-scaled Rathian subspecies. Its tail attacks are far more powerful than those of a regular Rathian.",
+      "stats": [
+        {
+          "health": "4",
+          "attack": "4",
+          "defense": "3",
+          "agility": "3"
+        }
+      ],
+      "attact": [
+        {
+          "fire": "5",
+          "water": "3",
+          "thunder": "2",
+          "ice": "3",
+          "dragon": "2"
+        }
+      ],
+      "defense": [
+        {
+          "fire": "5",
+          "water": "3",
+          "thunder": "2",
+          "ice": "3",
+          "dragon": "2"
+        }
+      ],
+      "ride-action": [
+        {
+          "active": "",
+          "pasive": "den detect"
+        }
+      ],
+      "eggs": [
+        {
+          "bg-egg": "rgb(240,45,45)",
+          "pt-egg": "/assets/images/036/pattern1.png"
+        },
+        {
+          "bg-egg": "rgb(175,240,0)",
+          "pt-egg": "/assets/images/036/pattern1.png"
+        },
+        {
+          "bg-egg": "rgb(240,45,45)",
+          "pt-egg": "/assets/images/036/pattern2.png"
+        },
+        {
+          "bg-egg": "rgb(175,240,0)",
+          "pt-egg": "/assets/images/036/pattern2.png"
+        }
+      ]
+    },
+    {
+      "id": "039",
+      "rank": "3",
+      "monster": "barroth",
+      "monstie": "true",
+      "tendency": "speed",
+      "size": "large",
+      "type": "brute wyvern",
+      "img": "/assets/images/039/render.png",
+      "thumbnail": "/assets/images/039/icon.webp",
+      "descrip": "barroth bury themselves in mud, but will not hesitate to attack those who disturb them in their bogs.",
+      "stats": [
+        {
+          "health": "5",
+          "attack": "1",
+          "defense": "5",
+          "agility": "3"
+        }
+      ],
+      "attact": [
+        {
+          "fire": "1",
+          "water": "5",
+          "thunder": "4",
+          "ice": "3",
+          "dragon": "3"
+        }
+      ],
+      "defense": [
+        {
+          "fire": "2",
+          "water": "5",
+          "thunder": "4",
+          "ice": "3",
+          "dragon": "3"
+        }
+      ],
+      "ride-action": [
+        {
+          "active": "dig",
+          "pasive": "insect detect"
+        }
+      ],
+      "eggs": [
+        {
+          "bg-egg": "rgb(201,99,0)",
+          "pt-egg": "/assets/images/039/pattern1.png"
+        },
+        {
+          "bg-egg": "rgb(4,230,190)",
+          "pt-egg": "/assets/images/039/pattern1.png"
+        },
+        {
+          "bg-egg": "rgb(201,99,0)",
+          "pt-egg": "/assets/images/039/pattern2.png"
+        },
+        {
+          "bg-egg": "rgb(4,230,190)",
+          "pt-egg": "/assets/images/039/pattern2.png"
+        }
+      ]
+    },
+    {
+      "id": "040",
+      "rank": "2",
+      "monster": "cephadrome",
+      "monstie": "true",
+      "tendency": "power",
+      "size": "large",
+      "type": "piscine wyverns",
+      "img": "/assets/images/040/render.png",
+      "thumbnail": "/assets/images/040/icon.webp",
+      "descrip": "alpha monster that lead Cephalos. Hardened black scales set them apart from the smaller Cephalos.",
+      "stats": [
+        {
+          "health": "2",
+          "attack": "1",
+          "defense": "3",
+          "agility": "3"
+        }
+      ],
+      "attact": [
+        {
+          "fire": "4",
+          "water": "4",
+          "thunder": "3",
+          "ice": "1",
+          "dragon": "3"
+        }
+      ],
+      "defense": [
+        {
+          "fire": "4",
+          "water": "4",
+          "thunder": "3",
+          "ice": "1",
+          "dragon": "3"
+        }
+      ],
+      "ride-action": [
+        {
+          "active": "dig",
+          "pasive": "monster detect"
+        }
+      ],
+      "eggs": [
+        {
+          "bg-egg": "rgb(114,118,75)",
+          "pt-egg": "/assets/images/040/pattern1.png"
+        },
+        {
+          "bg-egg": "rgb(159,202,8)",
+          "pt-egg": "/assets/images/040/pattern1.png"
+        },
+        {
+          "bg-egg": "rgb(114,118,75)",
+          "pt-egg": "/assets/images/040/pattern2.png"
+        },
+        {
+          "bg-egg": "rgb(159,202,8)",
+          "pt-egg": "/assets/images/040/pattern2.png"
+        }
+      ]
+    },
+    {
+      "id": "041",
+      "rank": "4",
+      "monster": "diablos",
+      "monstie": "true",
+      "tendency": "power",
+      "size": "large",
+      "type": "flying wyverns",
+      "img": "/assets/images/041/render.png",
+      "thumbnail": "/assets/images/041/icon.webp",
+      "descrip": "feared as tyrants of the deserts, these Flying Wyverns attack any who stray into their territory.",
+      "stats": [
+        {
+          "health": "5",
+          "attack": "4",
+          "defense": "5",
+          "agility": "3"
+        }
+      ],
+      "attact": [
+        {
+          "fire": "5",
+          "water": "3",
+          "thunder": "3",
+          "ice": "2",
+          "dragon": "3"
+        }
+      ],
+      "defense": [
+        {
+          "fire": "5",
+          "water": "3",
+          "thunder": "3",
+          "ice": "1",
+          "dragon": "3"
+        }
+      ],
+      "ride-action": [
+        {
+          "active": "dig",
+          "pasive": "roar"
+        }
+      ],
+      "eggs": [
+        {
+          "bg-egg": "rgb(255,100,70)",
+          "pt-egg": "/assets/images/041/pattern1.png"
+        },
+        {
+          "bg-egg": "rgb(255,222,1)",
+          "pt-egg": "/assets/images/041/pattern1.png"
+        },
+        {
+          "bg-egg": "rgb(255,100,70)",
+          "pt-egg": "/assets/images/041/pattern2.png"
+        },
+        {
+          "bg-egg": "rgb(255,222,1)",
+          "pt-egg": "/assets/images/041/pattern2.png"
+        }
+      ]
+    },
+    {
+      "id": "042",
+      "rank": "4",
+      "monster": "black diablos",
+      "monstie": "true",
+      "tendency": "power",
+      "size": "large",
+      "type": "flying wyverns",
+      "img": "/assets/images/042/render.png",
+      "thumbnail": "/assets/images/042/icon.webp",
+      "descrip": "a formidable subspecies of Diablos. Females darken in the mating season so as to warn off other creatures.",
+      "stats": [
+        {
+          "health": "4",
+          "attack": "5",
+          "defense": "4",
+          "agility": "3"
+        }
+      ],
+      "attact": [
+        {
+          "fire": "4",
+          "water": "3",
+          "thunder": "3",
+          "ice": "3",
+          "dragon": "3"
+        }
+      ],
+      "defense": [
+        {
+          "fire": "5",
+          "water": "3",
+          "thunder": "3",
+          "ice": "1",
+          "dragon": "3"
+        }
+      ],
+      "ride-action": [
+        {
+          "active": "dig",
+          "pasive": "roar"
+        }
+      ],
+      "eggs": [
+        {
+          "bg-egg": "rgb(100,89,40)",
+          "pt-egg": "/assets/images/042/pattern1.png"
+        },
+        {
+          "bg-egg": "rgb(7,211,213)",
+          "pt-egg": "/assets/images/042/pattern1.png"
+        },
+        {
+          "bg-egg": "rgb(100,89,40)",
+          "pt-egg": "/assets/images/042/pattern2.png"
+        },
+        {
+          "bg-egg": "rgb(7,211,213)",
+          "pt-egg": "/assets/images/042/pattern2.png"
+        }
+      ]
+    },
+    {
+      "id": "043",
+      "rank": "4",
+      "monster": "tigrex",
+      "monstie": "true",
+      "tendency": "power",
+      "size": "large",
+      "type": "Flying Wyverns",
+      "img": "/assets/images/043/render.png",
+      "thumbnail": "/assets/images/043/icon.webp",
+      "descrip": "primeval in appearance, these Flying Wyverns are possessed of fearsome limbs, jaws and claws.",
+      "stats": [
+        {
+          "health": "2",
+          "attack": "5",
+          "defense": "3",
+          "agility": "3"
+        }
+      ],
+      "attact": [
+        {
+          "fire": "5",
+          "water": "3",
+          "thunder": "2",
+          "ice": "3",
+          "dragon": "3"
+        }
+      ],
+      "defense": [
+        {
+          "fire": "5",
+          "water": "3",
+          "thunder": "1",
+          "ice": "3",
+          "dragon": "3"
+        }
+      ],
+      "ride-action": [
+        {
+          "active": "climb",
+          "pasive": "charge"
+        }
+      ],
+      "eggs": [
+        {
+          "bg-egg": "rgb(255,168,0)",
+          "pt-egg": "/assets/images/043/pattern1.png"
+        },
+        {
+          "bg-egg": "rgb(172,238,108)",
+          "pt-egg": "/assets/images/043/pattern1.png"
+        },
+        {
+          "bg-egg": "rgb(255,168,0)",
+          "pt-egg": "/assets/images/043/pattern2.png"
+        },
+        {
+          "bg-egg": "rgb(172,238,108)",
+          "pt-egg": "/assets/images/043/pattern2.png"
+        }
+      ]
+    },
+    {
+      "id": "050",
+      "rank": "2",
+      "monster": "iodrome",
+      "monstie": "true",
+      "tendency": "speed",
+      "size": "large",
+      "type": "bird wyvern",
+      "img": "/assets/images/050/render.png",
+      "thumbnail": "/assets/images/050/icon.webp",
+      "descrip": "alpha monsters that lead Ioprey. Their poison sacs allow them to attack by spitting an acrid venom.",
+      "stats": [
+        {
+          "health": "1",
+          "attack": "1",
+          "defense": "2",
+          "agility": "4"
+        }
+      ],
+      "attact": [
+        {
+          "fire": "3",
+          "water": "2",
+          "thunder": "2",
+          "ice": "4",
+          "dragon": "4"
+        }
+      ],
+      "defense": [
+        {
+          "fire": "3",
+          "water": "1",
+          "thunder": "1",
+          "ice": "5",
+          "dragon": "5"
+        }
+      ],
+      "ride-action": [
+        {
+          "active": "jump",
+          "pasive": ""
+        }
+      ],
+      "eggs": [
+        {
+          "bg-egg": "rgb(251,98,98)",
+          "pt-egg": "/assets/images/050/pattern1.png"
+        },
+        {
+          "bg-egg": "rgb(255,239,124)",
+          "pt-egg": "/assets/images/050/pattern1.png"
+        },
+        {
+          "bg-egg": "rgb(251,98,98)",
+          "pt-egg": "/assets/images/050/pattern2.png"
+        },
+        {
+          "bg-egg": "rgb(255,239,124)",
+          "pt-egg": "/assets/images/050/pattern2.png"
+        }
+      ]
+    },
+    {
+      "id": "051",
+      "rank": "3",
+      "monster": "basarios",
+      "monstie": "true",
+      "tendency": "technique",
+      "size": "large",
+      "type": "flying wyverns",
+      "img": "/assets/images/051/render.png",
+      "thumbnail": "/assets/images/051/icon.webp",
+      "descrip": "juvenile form of a Gravios. Its most distinctive feature is the rock-hard carapace on its back.",
+      "stats": [
+        {
+          "health": "3",
+          "attack": "1",
+          "defense": "5",
+          "agility": "1"
+        }
+      ],
+      "attact": [
+        {
+          "fire": "4",
+          "water": "3",
+          "thunder": "4",
+          "ice": "4",
+          "dragon": "1"
+        }
+      ],
+      "defense": [
+        {
+          "fire": "3",
+          "water": "3",
+          "thunder": "5",
+          "ice": "5",
+          "dragon": "1"
+        }
+      ],
+      "ride-action": [
+        {
+          "active": "ore and bone detect",
+          "pasive": "dig"
+        }
+      ],
+      "eggs": [
+        {
+          "bg-egg": "rgb(241,215,178)",
+          "pt-egg": "/assets/images/051/pattern1.png"
+        },
+        {
+          "bg-egg": "rgb(255,180,29)",
+          "pt-egg": "/assets/images/051/pattern1.png"
+        },
+        {
+          "bg-egg": "rgb(241,215,178)",
+          "pt-egg": "/assets/images/051/pattern2.png"
+        },
+        {
+          "bg-egg": "rgb(255,180,29)",
+          "pt-egg": "/assets/images/051/pattern2.png"
+        }
+      ]
+    },
+    {
+      "id": "052",
+      "rank": "4",
+      "monster": "gravios",
+      "monstie": "true",
+      "tendency": "power",
+      "size": "large",
+      "type": "flying wyverns",
+      "img": "/assets/images/052/render.png",
+      "thumbnail": "/assets/images/052/icon.webp",
+      "descrip": "flying wyverns that inhabit volcanic regions. Capable of attacking with fiery breath and sleeping gas.",
+      "stats": [
+        {
+          "health": "5",
+          "attack": "3",
+          "defense": "5",
+          "agility": "2"
+        }
+      ],
+      "attact": [
+        {
+          "fire": "5",
+          "water": "3",
+          "thunder": "3",
+          "ice": "3",
+          "dragon": "3"
+        }
+      ],
+      "defense": [
+        {
+          "fire": "5",
+          "water": "1",
+          "thunder": "3",
+          "ice": "3",
+          "dragon": "1"
+        }
+      ],
+      "ride-action": [
+        {
+          "active": "lava walk",
+          "pasive": "roar"
+        }
+      ],
+      "eggs": [
+        {
+          "bg-egg": "rgb(252,233,207)",
+          "pt-egg": "/assets/images/052/pattern1.png"
+        },
+        {
+          "bg-egg": "rgb(255,183,28)",
+          "pt-egg": "/assets/images/052/pattern1.png"
+        },
+        {
+          "bg-egg": "rgb(252,233,207)",
+          "pt-egg": "/assets/images/052/pattern2.png"
+        },
+        {
+          "bg-egg": "rgb(255,183,28)",
+          "pt-egg": "/assets/images/052/pattern2.png"
+        }
+      ]
+    },
+    {
+      "id": "053",
+      "rank": "4",
+      "monster": "uragaan",
+      "monstie": "true",
+      "tendency": "power",
+      "size": "large",
+      "type": "brute wyvern",
+      "img": "/assets/images/053/render.png",
+      "thumbnail": "/assets/images/053/icon.webp",
+      "descrip": "brute Wyverns with mighty jaws. They spray the stones and ore which stick to them in deadly, explosive attacks.",
+      "stats": [
+        {
+          "health": "5",
+          "attack": "2",
+          "defense": "5",
+          "agility": "1"
+        }
+      ],
+      "attact": [
+        {
+          "fire": "5",
+          "water": "2",
+          "thunder": "3",
+          "ice": "3",
+          "dragon": "3"
+        }
+      ],
+      "defense": [
+        {
+          "fire": "5",
+          "water": "1",
+          "thunder": "3",
+          "ice": "3",
+          "dragon": "3"
+        }
+      ],
+      "ride-action": [
+        {
+          "active": "lava walk",
+          "pasive": "ore and bone detect"
+        }
+      ],
+      "eggs": [
+        {
+          "bg-egg": "rgb(255,222,0)",
+          "pt-egg": "/assets/images/053/pattern1.png"
+        },
+        {
+          "bg-egg": "rgb(254,105,185)",
+          "pt-egg": "/assets/images/053/pattern1.png"
+        },
+        {
+          "bg-egg": "rgb(255,222,0)",
+          "pt-egg": "/assets/images/053/pattern2.png"
+        },
+        {
+          "bg-egg": "rgb(254,105,185)",
+          "pt-egg": "/assets/images/053/pattern2.png"
+        }
+      ]
+    },
+    {
+      "id": "054",
+      "rank": "5",
+      "monster": "brute tigrex",
+      "monstie": "true",
+      "tendency": "power",
+      "size": "large",
+      "type": "flying wyverns",
+      "img": "/assets/images/054/render.png",
+      "thumbnail": "/assets/images/054/icon.webp",
+      "descrip": "a black Tigrex subspecies. The force and range of its howl is even more fearsome than that of its cousins.",
+      "stats": [
+        {
+          "health": "2",
+          "attack": "5",
+          "defense": "3",
+          "agility": "3"
+        }
+      ],
+      "attact": [
+        {
+          "fire": "5",
+          "water": "2",
+          "thunder": "3",
+          "ice": "3",
+          "dragon": "3"
+        }
+      ],
+      "defense": [
+        {
+          "fire": "5",
+          "water": "1",
+          "thunder": "3",
+          "ice": "3",
+          "dragon": "3"
+        }
+      ],
+      "ride-action": [
+        {
+          "active": "climb",
+          "pasive": "charge"
+        }
+      ],
+      "eggs": [
+        {
+          "bg-egg": "rgb(122,105,73)",
+          "pt-egg": "/assets/images/054/pattern1.png"
+        },
+        {
+          "bg-egg": "rgb(255,190,230)",
+          "pt-egg": "/assets/images/054/pattern1.png"
+        },
+        {
+          "bg-egg": "rgb(122,105,73)",
+          "pt-egg": "/assets/images/054/pattern2.png"
+        },
+        {
+          "bg-egg": "rgb(255,190,230)",
+          "pt-egg": "/assets/images/054/pattern2.png"
+        }
+      ]
+    },
+    {
+      "id": "068",
+      "rank": "2",
+      "monster": "great jaggi",
+      "monstie": "true",
+      "tendency": "speed",
+      "size": "large",
+      "type": "bird wyvern",
+      "img": "/assets/images//render.png",
+      "thumbnail": "/assets/images//icon.webp",
+      "descrip": "alpha monsters that lead Jaggi. They issue complex commands to the pack via their howls.",
+      "stats": [
+        {
+          "health": "1",
+          "attack": "1",
+          "defense": "2",
+          "agility": "4"
+        }
+      ],
+      "attact": [
+        {
+          "fire": "2",
+          "water": "3",
+          "thunder": "3",
+          "ice": "3",
+          "dragon": "5"
+        }
+      ],
+      "defense": [
+        {
+          "fire": "1",
+          "water": "3",
+          "thunder": "3",
+          "ice": "3",
+          "dragon": "5"
+        }
+      ],
+      "ride-action": [
+        {
+          "active": "",
+          "pasive": "den detect"
+        }
+      ],
+      "eggs": [
+        {
+          "bg-egg": "rgb(178,115,255)",
+          "pt-egg": "/assets/images/068/pattern1.png"
+        },
+        {
+          "bg-egg": "rgb(7,211,213)",
+          "pt-egg": "/assets/images/068/pattern1.png"
+        },
+        {
+          "bg-egg": "rgb(178,115,255)",
+          "pt-egg": "/assets/images/068/pattern2.png"
+        },
+        {
+          "bg-egg": "rgb(7,211,213)",
+          "pt-egg": "/assets/images/068/pattern2.png"
+        }
+      ]
+    },
+    {
+      "id": "069",
+      "rank": "3",
+      "monster": "kecha wacha",
+      "monstie": "true",
+      "tendency": "technique",
+      "size": "large",
+      "type": "fanged beast",
+      "img": "/assets/images/069/render.png",
+      "thumbnail": "/assets/images/069/icon.webp",
+      "descrip": "fanged beasts with limbs well adapted to swinging through the forest tree areas they inhabit.",
+      "stats": [
+        {
+          "health": "2",
+          "attack": "2",
+          "defense": "2",
+          "agility": "3"
+        }
+      ],
+      "attact": [
+        {
+          "fire": "1",
+          "water": "5",
+          "thunder": "3",
+          "ice": "3",
+          "dragon": "3"
+        }
+      ],
+      "defense": [
+        {
+          "fire": "1",
+          "water": "5",
+          "thunder": "3",
+          "ice": "3",
+          "dragon": "3"
+        }
+      ],
+      "ride-action": [
+        {
+          "active": "climb",
+          "pasive": "insect detect"
+        }
+      ],
+      "eggs": [
+        {
+          "bg-egg": "rgb(255,180,35)",
+          "pt-egg": "/assets/images/069/pattern1.png"
+        },
+        {
+          "bg-egg": "rgb(150,233,105)",
+          "pt-egg": "/assets/images/069/pattern1.png"
+        },
+        {
+          "bg-egg": "rgb(255,180,35)",
+          "pt-egg": "/assets/images/069/pattern2.png"
+        },
+        {
+          "bg-egg": "rgb(150,233,105)",
+          "pt-egg": "/assets/images/069/pattern2.png"
+        }
+      ]
+    },
+
+    {
+      "id": "070",
+      "rank": "4",
+      "monster": "purple Lludroth",
+      "monstie": "true",
+      "tendency": "power",
+      "size": "large",
+      "type": "brute Wyvern",
+      "img": "/assets/images/070/render.png",
+      "thumbnail": "/assets/images/070/icon.webp",
+      "descrip": "a subspecies of Royal Ludroth. Poison is stored in their spongy purple manes.",
+      "stats": [
+        {
+          "health": "2",
+          "attack": "2",
+          "defense": "3",
+          "agility": "3"
+        }
+      ],
+      "attact": [
+        {
+          "fire": "2",
+          "water": "5",
+          "thunder": "3",
+          "ice": "3",
+          "dragon": "3"
+        }
+      ],
+      "defense": [
+        {
+          "fire": "1",
+          "water": "5",
+          "thunder": "3",
+          "ice": "3",
+          "dragon": "3"
+        }
+      ],
+      "ride-action": [
+        {
+          "active": "swin",
+          "pasive": "fish detect"
+        }
+      ],
+      "eggs": [
+        {
+          "bg-egg": "rgb(255,203,252)",
+          "pt-egg": "/assets/images/070/pattern1.png"
+        },
+        {
+          "bg-egg": "rgb(58,118,255)",
+          "pt-egg": "/assets/images/070/pattern1.png"
+        },
+        {
+          "bg-egg": "rgb(255,203,252)",
+          "pt-egg": "/assets/images/070/pattern2.png"
+        },
+        {
+          "bg-egg": "rgb(58,118,255)",
+          "pt-egg": "/assets/images/070/pattern2.png"
+        }
+      ]
+    },
+    {
+      "id": "071",
+      "rank": "5",
+      "monster": "yian garuga",
+      "monstie": "true",
+      "tendency": "technique",
+      "size": "large",
+      "type": "bird wyvern",
+      "img": "/assets/images/071/render.png",
+      "thumbnail": "/assets/images/071/icon.webp",
+      "descrip": "bird wyvern known for their hard shells and long manes. Aggressive, prone to attack unprovoked.",
+      "stats": [
+        {
+          "health": "2",
+          "attack": "4",
+          "defense": "3",
+          "agility": "4"
+        }
+      ],
+      "attact": [
+        {
+          "fire": "5",
+          "water": "1",
+          "thunder": "3",
+          "ice": "3",
+          "dragon": "5"
+        }
+      ],
+      "defense": [
+        {
+          "fire": "5",
+          "water": "1",
+          "thunder": "3",
+          "ice": "3",
+          "dragon": "5"
+        }
+      ],
+      "ride-action": [
+        {
+          "active": "fly",
+          "pasive": ""
+        }
+      ],
+      "eggs": [
+        {
+          "bg-egg": "rgb(116,97,255)",
+          "pt-egg": "/assets/images/071/pattern1.png"
+        },
+        {
+          "bg-egg": "rgb(255,190,230)",
+          "pt-egg": "/assets/images/071/pattern1.png"
+        },
+        {
+          "bg-egg": "rgb(116,97,255)",
+          "pt-egg": "/assets/images/071/pattern2.png"
+        },
+        {
+          "bg-egg": "rgb(255,190,230)",
+          "pt-egg": "/assets/images/071/pattern2.png"
+        }
+      ]
+    },
+    {
+      "id": "072",
+      "rank": "3",
+      "monster": "congalala",
+      "monstie": "true",
+      "tendency": "power",
+      "size": "large",
+      "type": "fanged beasts",
+      "img": "/assets/images/072/render.png",
+      "thumbnail": "/assets/images/072/icon.webp",
+      "descrip": "pink-furred fanged beasts. They let rip with almighty farts, the stench of which overwhelms opponents.",
+      "stats": [
+        {
+          "health": "3",
+          "attack": "2",
+          "defense": "4",
+          "agility": "3"
+        }
+      ],
+      "attact": [
+        {
+          "fire": "3",
+          "water": "4",
+          "thunder": "4",
+          "ice": "4",
+          "dragon": "3"
+        }
+      ],
+      "defense": [
+        {
+          "fire": "1",
+          "water": "3",
+          "thunder": "3",
+          "ice": "3",
+          "dragon": "3"
+        }
+      ],
+      "ride-action": [
+        {
+          "active": "climb",
+          "pasive": "mushroom detect"
+        }
+      ],
+      "eggs": [
+        {
+          "bg-egg": "rgb(255,123,238)",
+          "pt-egg": "/assets/images/072/pattern1.png"
+        },
+        {
+          "bg-egg": "rgb(214,110,59)",
+          "pt-egg": "/assets/images/072/pattern1.png"
+        },
+        {
+          "bg-egg": "rgb(255,123,238)",
+          "pt-egg": "/assets/images/072/pattern2.png"
+        },
+        {
+          "bg-egg": "rgb(214,110,59)",
+          "pt-egg": "/assets/images/072/pattern2.png"
+        }
+      ]
+    },
+    {
+      "id": "073",
+      "rank": "4",
+      "monster": "emerald congalala",
+      "monstie": "true",
+      "tendency": "power",
+      "size": "large",
+      "type": "fanged beasts",
+      "img": "/assets/images/073/render.png",
+      "thumbnail": "/assets/images/073/icon.webp",
+      "descrip": "a green-furred Congalala. Able to store even more prodigious quantities of gas than its pink brethren.",
+      "stats": [
+        {
+          "health": "3",
+          "attack": "3",
+          "defense": "3",
+          "agility": "3"
+        }
+      ],
+      "attact": [
+        {
+          "fire": "4",
+          "water": "4",
+          "thunder": "4",
+          "ice": "3",
+          "dragon": "3"
+        }
+      ],
+      "defense": [
+        {
+          "fire": "3",
+          "water": "3",
+          "thunder": "3",
+          "ice": "1",
+          "dragon": "3"
+        }
+      ],
+      "ride-action": [
+        {
+          "active": "climb",
+          "pasive": "mushroom detect"
+        }
+      ],
+      "eggs": [
+        {
+          "bg-egg": "rgb(100,236,63)",
+          "pt-egg": "/assets/images/073/pattern1.png"
+        },
+        {
+          "bg-egg": "rgb(214,110,59)",
+          "pt-egg": "/assets/images/073/pattern1.png"
+        },
+        {
+          "bg-egg": "rgb(100,236,63)",
+          "pt-egg": "/assets/images/073/pattern2.png"
+        },
+        {
+          "bg-egg": "rgb(214,110,59)",
+          "pt-egg": "/assets/images/073/pattern2.png"
+        }
+      ]
+    },
+    {
+      "id": "074",
+      "rank": "4",
+      "monster": "crimson qurupeco",
+      "monstie": "true",
+      "tendency": "technique",
+      "size": "large",
+      "type": "bird wyvern",
+      "img": "/assets/images/074/render.png",
+      "thumbnail": "/assets/images/074/icon.webp",
+      "descrip": "subspecies with vibrant red plumage. Flints in its wings allow it to release fearsome electrical attacks.",
+      "stats": [
+        {
+          "health": "2",
+          "attack": "3",
+          "defense": "3",
+          "agility": "4"
+        }
+      ],
+      "attact": [
+        {
+          "fire": "3",
+          "water": "3",
+          "thunder": "5",
+          "ice": "2",
+          "dragon": "4"
+        }
+      ],
+      "defense": [
+        {
+          "fire": "3",
+          "water": "3",
+          "thunder": "5",
+          "ice": "1",
+          "dragon": "3"
+        }
+      ],
+      "ride-action": [
+        {
+          "active": "summon",
+          "pasive": ""
+        }
+      ],
+      "eggs": [
+        {
+          "bg-egg": "rgb(255,77,115)",
+          "pt-egg": "/assets/images/074/pattern1.png"
+        },
+        {
+          "bg-egg": "rgb(254,105,185)",
+          "pt-egg": "/assets/images/074/pattern1.png"
+        },
+        {
+          "bg-egg": "rgb(255,77,115)",
+          "pt-egg": "/assets/images/074/pattern2.png"
+        },
+        {
+          "bg-egg": "rgb(254,105,185)",
+          "pt-egg": "/assets/images/074/pattern2.png"
+        }
+      ]
+    },
+    {
+      "id": "075",
+      "rank": "6",
+      "monster": "black gravios",
+      "monstie": "true",
+      "tendency": "power",
+      "size": "large",
+      "type": "flying wyverns",
+      "img": "/assets/images/075/render.png",
+      "thumbnail": "/assets/images/075/icon.webp",
+      "descrip": "this subspecies has a tough, black carapace. It is capable of discharging powerful blasts of heat.",
+      "stats": [
+        {
+          "health": "4",
+          "attack": "2",
+          "defense": "5",
+          "agility": "2"
+        }
+      ],
+      "attact": [
+        {
+          "fire": "5",
+          "water": "1",
+          "thunder": "2",
+          "ice": "2",
+          "dragon": "2"
+        }
+      ],
+      "defense": [
+        {
+          "fire": "5",
+          "water": "1",
+          "thunder": "5",
+          "ice": "5",
+          "dragon": "5"
+        }
+      ],
+      "ride-action": [
+        {
+          "active": "lava walk",
+          "pasive": "roar"
+        }
+      ],
+      "eggs": [
+        {
+          "bg-egg": "rgb(255,138,0)",
+          "pt-egg": "/assets/images/075/pattern1.png"
+        },
+        {
+          "bg-egg": "rgb(56,232,184)",
+          "pt-egg": "/assets/images/075/pattern1.png"
+        },
+        {
+          "bg-egg": "rgb(255,138,0)",
+          "pt-egg": "/assets/images/075/pattern2.png"
+        },
+        {
+          "bg-egg": "rgb(56,232,184)",
+          "pt-egg": "/assets/images/075/pattern2.png"
+        }
+      ]
+    },
+    {
+      "id": "076",
+      "rank": "6",
+      "monster": "zinogre",
+      "monstie": "true",
+      "tendency": "power",
+      "size": "large",
+      "type": "fanged wyvern",
+      "img": "/assets/images/076/render.png",
+      "thumbnail": "/assets/images/076/icon.webp",
+      "descrip": "fanged wyverns that store the electrical energy of the countless Thunderbugs that they gather.",
+      "stats": [
+        {
+          "health": "5",
+          "attack": "4",
+          "defense": "5",
+          "agility": "3"
+        }
+      ],
+      "attact": [
+        {
+          "fire": "3",
+          "water": "3",
+          "thunder": "5",
+          "ice": "2",
+          "dragon": "3"
+        }
+      ],
+      "defense": [
+        {
+          "fire": "3",
+          "water": "3",
+          "thunder": "5",
+          "ice": "1",
+          "dragon": "3"
+        }
+      ],
+      "ride-action": [
+        {
+          "active": "jump",
+          "pasive": ""
+        }
+      ],
+      "eggs": [
+        {
+          "bg-egg": "rgb(0,226,202)",
+          "pt-egg": "/assets/images/076/pattern1.png"
+        },
+        {
+          "bg-egg": "rgb(255,134,219)",
+          "pt-egg": "/assets/images/076/pattern1.png"
+        },
+        {
+          "bg-egg": "rgb(0,226,202)",
+          "pt-egg": "/assets/images/076/pattern2.png"
+        },
+        {
+          "bg-egg": "rgb(255,134,219)",
+          "pt-egg": "/assets/images/076/pattern2.png"
+        }
+      ]
+    },
+    {
+      "id": "077",
+      "rank": "4",
+      "monster": "ruby basarios",
+      "monstie": "true",
+      "tendency": "technique",
+      "size": "large",
+      "type": "flying wyverns",
+      "img": "/assets/images/077/render.png",
+      "thumbnail": "/assets/images/077/icon.webp",
+      "descrip": "basarios subspecies that coats its carapace with rare ore. It scatters this with great force during battle.",
+      "stats": [
+        {
+          "health": "3",
+          "attack": "2",
+          "defense": "5",
+          "agility": "1"
+        }
+      ],
+      "attact": [
+        {
+          "fire": "5",
+          "water": "3",
+          "thunder": "3",
+          "ice": "2",
+          "dragon": "3"
+        }
+      ],
+      "defense": [
+        {
+          "fire": "4",
+          "water": "3",
+          "thunder": "3",
+          "ice": "1",
+          "dragon": "3"
+        }
+      ],
+      "ride-action": [
+        {
+          "active": "dig",
+          "pasive": "bone and ore detect"
+        }
+      ],
+      "eggs": [
+        {
+          "bg-egg": "rgb(255,74,163)",
+          "pt-egg": "/assets/images/077/pattern1.png"
+        },
+        {
+          "bg-egg": "rgb(254,130,151)",
+          "pt-egg": "/assets/images/077/pattern1.png"
+        },
+        {
+          "bg-egg": "rgb(255,74,163)",
+          "pt-egg": "/assets/images/077/pattern2.png"
+        },
+        {
+          "bg-egg": "rgb(254,130,151)",
+          "pt-egg": "/assets/images/077/pattern2.png"
+        }
+      ]
+    },
+    {
+      "id": "078",
+      "rank": "5",
+      "monster": "nargacuga",
+      "monstie": "true",
+      "tendency": "speed",
+      "size": "large",
+      "type": "flying wyvern",
+      "img": "/assets/images/078/render.png",
+      "thumbnail": "/assets/images/078/icon.webp",
+      "descrip": "flying wyverns residing in wooded areas. Fearfully fast, persistent, and sly, they excel at hunting prey.",
+      "stats": [
+        {
+          "health": "2",
+          "attack": "4",
+          "defense": "3",
+          "agility": "5"
+        }
+      ],
+      "attact": [
+        {
+          "fire": "3",
+          "water": "4",
+          "thunder": "2",
+          "ice": "3",
+          "dragon": "3"
+        }
+      ],
+      "defense": [
+        {
+          "fire": "3",
+          "water": "5",
+          "thunder": "1",
+          "ice": "3",
+          "dragon": "3"
+        }
+      ],
+      "ride-action": [
+        {
+          "active": "",
+          "pasive": "invisibility"
+        }
+      ],
+      "eggs": [
+        {
+          "bg-egg": "rgb(79,68,171)",
+          "pt-egg": "/assets/images/078/pattern1.png"
+        },
+        {
+          "bg-egg": "rgb(246,164,201)",
+          "pt-egg": "/assets/images/078/pattern1.png"
+        },
+        {
+          "bg-egg": "rgb(79,68,171)",
+          "pt-egg": "/assets/images/078/pattern2.png"
+        },
+        {
+          "bg-egg": "rgb(246,164,201)",
+          "pt-egg": "/assets/images/078/pattern2.png"
+        }
+      ]
+    },
+    {
+      "id": "079",
+      "rank": "6",
+      "monster": "Green Nargacuga",
+      "monstie": "true",
+      "tendency": "speed",
+      "size": "large",
+      "type": "flying wyverns",
+      "img": "/assets/images/079/render.png",
+      "thumbnail": "/assets/images/079/icon.webp",
+      "descrip": "dappled green fur serves as camouflage in the deep forests that this Nargacuga calls home.",
+      "stats": [
+        {
+          "health": "2",
+          "attack": "5",
+          "defense": "3",
+          "agility": "5"
+        }
+      ],
+      "attact": [
+        {
+          "fire": "3",
+          "water": "4",
+          "thunder": "2",
+          "ice": "3",
+          "dragon": "3"
+        }
+      ],
+      "defense": [
+        {
+          "fire": "3",
+          "water": "5",
+          "thunder": "1",
+          "ice": "3",
+          "dragon": "3"
+        }
+      ],
+      "ride-action": [
+        {
+          "active": "",
+          "pasive": "invisibility"
+        }
+      ],
+      "eggs": [
+        {
+          "bg-egg": "rgb(116,224,0)",
+          "pt-egg": "/assets/images/079/pattern1.png"
+        },
+        {
+          "bg-egg": "rgb(238,242,206)",
+          "pt-egg": "/assets/images/079/pattern1.png"
+        },
+        {
+          "bg-egg": "rgb(116,224,0)",
+          "pt-egg": "/assets/images/079/pattern2.png"
+        },
+        {
+          "bg-egg": "rgb(238,242,206)",
+          "pt-egg": "/assets/images/079/pattern2.png"
+        }
+      ]
+    },
+    {
+      "id": "080",
+      "rank": "5",
+      "monster": "rathalos",
+      "monstie": "true",
+      "tendency": "power",
+      "size": "large",
+      "type": "flying wyvern",
+      "img": "/assets/images/080/render.png",
+      "thumbnail": "/assets/images/080/icon.webp",
+      "descrip": "Dubbed the King of the Skies, it dominates battle with its powerful wings and poison-tipped claws.",
+      "stats": [
+        {
+          "health": "5",
+          "attack": "4",
+          "defense": "3",
+          "agility": "3"
+        }
+      ],
+      "attact": [
+        {
+          "fire": "5",
+          "water": "3",
+          "thunder": "2",
+          "ice": "3",
+          "dragon": "2"
+        }
+      ],
+      "defense": [
+        {
+          "fire": "5",
+          "water": "3",
+          "thunder": "2",
+          "ice": "3",
+          "dragon": "1"
+        }
+      ],
+      "ride-action": [
+        {
+          "active": "fly",
+          "pasive": ""
+        }
+      ],
+      "eggs": [
+        {
+          "bg-egg": "rgb(245,98,53)",
+          "pt-egg": "/assets/images/080/pattern1.png"
+        },
+        {
+          "bg-egg": "rgb(166,255,70)",
+          "pt-egg": "/assets/images/080/pattern1.png"
+        },
+        {
+          "bg-egg": "rgb(245,98,53)",
+          "pt-egg": "/assets/images/080/pattern2.png"
+        },
+        {
+          "bg-egg": "rgb(166,255,70)",
+          "pt-egg": "/assets/images/080/pattern2.png"
+        }
+      ]
+    },
+    {
+      "id": "081",
+      "rank": "6",
+      "monster": "azure rathalos",
+      "monstie": "true",
+      "tendency": "power",
+      "size": "large",
+      "type": "flying wyvern",
+      "img": "/assets/images/081/render.png",
+      "thumbnail": "/assets/images/081/icon.webp",
+      "descrip": "a rathalos subspecies. More mobile than its cousin, it attacks with a matchless speed and ferocity.",
+      "stats": [
+        {
+          "health": "4",
+          "attack": "5",
+          "defense": "3",
+          "agility": "3"
+        }
+      ],
+      "attact": [
+        {
+          "fire": "5",
+          "water": "3",
+          "thunder": "3",
+          "ice": "2",
+          "dragon": "2"
+        }
+      ],
+      "defense": [
+        {
+          "fire": "5",
+          "water": "3",
+          "thunder": "3",
+          "ice": "2",
+          "dragon": "2"
+        }
+      ],
+      "ride-action": [
+        {
+          "active": "fly",
+          "pasive": ""
+        }
+      ],
+      "eggs": [
+        {
+          "bg-egg": "rgb(0,204,255)",
+          "pt-egg": "/assets/images/081/pattern1.png"
+        },
+        {
+          "bg-egg": "rgb(255,190,230)",
+          "pt-egg": "/assets/images/081/pattern1.png"
+        },
+        {
+          "bg-egg": "rgb(0,204,255)",
+          "pt-egg": "/assets/images/081/pattern2.png"
+        },
+        {
+          "bg-egg": "rgb(255,190,230)",
+          "pt-egg": "/assets/images/081/pattern2.png"
+        }
+      ]
+    },
+    {
+      "id": "083",
+      "rank": "4",
+      "monster": "purple gypceros",
+      "monstie": "true",
+      "tendency": "technique",
+      "size": "large",
+      "type": "bird wyver",
+      "img": "/assets/images/083/render.png",
+      "thumbnail": "/assets/images/083/icon.webp",
+      "descrip": "a subspecies of Gypceros with a uniquely colored hide. It attacks by spitting highly venomous waste.",
+      "stats": [
+        {
+          "health": "2",
+          "attack": "3",
+          "defense": "4",
+          "agility": "3"
+        }
+      ],
+      "attact": [
+        {
+          "fire": "2",
+          "water": "3",
+          "thunder": "5",
+          "ice": "3",
+          "dragon": "3"
+        }
+      ],
+      "defense": [
+        {
+          "fire": "1",
+          "water": "3",
+          "thunder": "5",
+          "ice": "3",
+          "dragon": "3"
+        }
+      ],
+      "ride-action": [
+        {
+          "active": "",
+          "pasive": "charge"
+        }
+      ],
+      "eggs": [
+        {
+          "bg-egg": "rgb(155,74,130)",
+          "pt-egg": "/assets/images/083/pattern1.png"
+        },
+        {
+          "bg-egg": "rgb(246,164,201)",
+          "pt-egg": "/assets/images/083/pattern1.png"
+        },
+        {
+          "bg-egg": "rgb(155,74,130)",
+          "pt-egg": "/assets/images/083/pattern2.png"
+        },
+        {
+          "bg-egg": "rgb(246,164,201)",
+          "pt-egg": "/assets/images/083/pattern2.png"
+        }
+      ]
+    },
+    {
+      "id": "084",
+      "rank": "4",
+      "monster": "ash kecha acha",
+      "monstie": "true",
+      "tendency": "technique",
+      "size": "large",
+      "type": "fanged beast",
+      "img": "/assets/images/084/render.png",
+      "thumbnail": "/assets/images/084/icon.webp",
+      "descrip": "this subspecies has pale, multicolored fur. They make sport of their prey with the cunning of their attacks.",
+      "stats": [
+        {
+          "health": "2",
+          "attack": "3",
+          "defense": "2",
+          "agility": "3"
+        }
+      ],
+      "attact": [
+        {
+          "fire": "5",
+          "water": "1",
+          "thunder": "3",
+          "ice": "3",
+          "dragon": "3"
+        }
+      ],
+      "defense": [
+        {
+          "fire": "5",
+          "water": "1",
+          "thunder": "3",
+          "ice": "3",
+          "dragon": "3"
+        }
+      ],
+      "ride-action": [
+        {
+          "active": "climb",
+          "pasive": "insect detect"
+        }
+      ],
+      "eggs": [
+        {
+          "bg-egg": "rgb(216,225,250)",
+          "pt-egg": "/assets/images/069/pattern1.png"
+        },
+        {
+          "bg-egg": "rgb(212,145,243)",
+          "pt-egg": "/assets/images/069/pattern1.png"
+        },
+        {
+          "bg-egg": "rgb(216,225,250)",
+          "pt-egg": "/assets/images/069/pattern2.png"
+        },
+        {
+          "bg-egg": "rgb(212,145,243)",
+          "pt-egg": "/assets/images/069/pattern2.png"
+        }
+      ]
+    },
+    {
+      "id": "085",
+      "rank": "5",
+      "monster": "lagiacrus",
+      "monstie": "true",
+      "tendency": "power",
+      "size": "large",
+      "type": "leviathan",
+      "img": "/assets/images/085/render.png",
+      "thumbnail": "/assets/images/085/icon.webp",
+      "descrip": "leviathans atop the aquatic food chain, due in no small part to their ability to deliver electrical shocks.",
+      "stats": [
+        {
+          "health": "5",
+          "attack": "4",
+          "defense": "5",
+          "agility": "3"
+        }
+      ],
+      "attact": [
+        {
+          "fire": "1",
+          "water": "4",
+          "thunder": "5",
+          "ice": "3",
+          "dragon": "3"
+        }
+      ],
+      "defense": [
+        {
+          "fire": "1",
+          "water": "4",
+          "thunder": "5",
+          "ice": "3",
+          "dragon": "3"
+        }
+      ],
+      "ride-action": [
+        {
+          "active": "swin",
+          "pasive": "roar"
+        }
+      ],
+      "eggs": [
+        {
+          "bg-egg": "rgb(0,206,224)",
+          "pt-egg": "/assets/images/085/pattern1.png"
+        },
+        {
+          "bg-egg": "rgb(255,169,201)",
+          "pt-egg": "/assets/images/085/pattern1.png"
+        },
+        {
+          "bg-egg": "rgb(0,206,224)",
+          "pt-egg": "/assets/images/085/pattern2.png"
+        },
+        {
+          "bg-egg": "rgb(255,169,201)",
+          "pt-egg": "/assets/images/085/pattern2.png"
+        }
+      ]
+    },
+    {
+      "id": "086",
+      "rank": "7",
+      "monster": "ivory lagiacrus",
+      "monstie": "true",
+      "tendency": "power",
+      "size": "large",
+      "type": "leviathan",
+      "img": "/assets/images/086/render.png",
+      "thumbnail": "/assets/images/086/icon.webp",
+      "descrip": "leviathans atop the aquatic food chain, due in no small part to their ability to deliver electrical shocks.",
+      "stats": [
+        {
+          "health": "4",
+          "attack": "5",
+          "defense": "4",
+          "agility": "3"
+        }
+      ],
+      "attact": [
+        {
+          "fire": "2",
+          "water": "5",
+          "thunder": "5",
+          "ice": "3",
+          "dragon": "2"
+        }
+      ],
+      "defense": [
+        {
+          "fire": "1",
+          "water": "5",
+          "thunder": "5",
+          "ice": "3",
+          "dragon": "2"
+        }
+      ],
+      "ride-action": [
+        {
+          "active": "swin",
+          "pasive": "roar"
+        }
+      ],
+      "eggs": [
+        {
+          "bg-egg": "rgb(55,130,255)",
+          "pt-egg": "/assets/images/086/pattern1.png"
+        },
+        {
+          "bg-egg": "rgb(173,255,94)",
+          "pt-egg": "/assets/images/086/pattern1.png"
+        },
+        {
+          "bg-egg": "rgb(55,130,255)",
+          "pt-egg": "/assets/images/086/pattern2.png"
+        },
+        {
+          "bg-egg": "rgb(173,255,94)",
+          "pt-egg": "/assets/images/086/pattern2.png"
+        }
+      ]
+    },
+    {
+      "id": "087",
+      "rank": "7",
+      "monster": "deviljho",
+      "monstie": "true",
+      "tendency": "power",
+      "size": "large",
+      "type": "brute wyvern",
+      "img": "/assets/images/087/render.png",
+      "thumbnail": "/assets/images/087/icon.webp",
+      "descrip": "brute wyverns that roam in search of food. Ferocious in the extreme, and relentless in pursuit of prey.",
+      "stats": [
+        {
+          "health": "5",
+          "attack": "5",
+          "defense": "3",
+          "agility": "2"
+        }
+      ],
+      "attact": [
+        {
+          "fire": "3",
+          "water": "3",
+          "thunder": "3",
+          "ice": "3",
+          "dragon": "5"
+        }
+      ],
+      "defense": [
+        {
+          "fire": "3",
+          "water": "3",
+          "thunder": "1",
+          "ice": "5",
+          "dragon": "1"
+        }
+      ],
+      "ride-action": [
+        {
+          "active": "mega rock smash",
+          "pasive": "monster detect"
+        }
+      ],
+      "eggs": [
+        {
+          "bg-egg": "rgb(62,188,0)",
+          "pt-egg": "/assets/images/087/pattern1.png"
+        },
+        {
+          "bg-egg": "rgb(4,230,190)",
+          "pt-egg": "/assets/images/087/pattern1.png"
+        },
+        {
+          "bg-egg": "rgb(62,188,0)",
+          "pt-egg": "/assets/images/087/pattern2.png"
+        },
+        {
+          "bg-egg": "rgb(4,230,190)",
+          "pt-egg": "/assets/images/087/pattern2.png"
+        }
+      ]
+    },
+    {
+      "id": "091",
+      "rank": "2",
+      "monster": "great baggi",
+      "monstie": "true",
+      "tendency": "speed",
+      "size": "large",
+      "type": "Bird Wyvern",
+      "img": "/assets/images/091/render.png",
+      "thumbnail": "/assets/images/091/icon.webp",
+      "descrip": "bluish-white, crested Bird Wyverns. Their ruthless cunning makes them natural leaders of Baggi packs.",
+      "stats": [
+        {
+          "health": "1",
+          "attack": "1",
+          "defense": "1",
+          "agility": "4"
+        }
+      ],
+      "attact": [
+        {
+          "fire": "2",
+          "water": "3",
+          "thunder": "2",
+          "ice": "5",
+          "dragon": "5"
+        }
+      ],
+      "defense": [
+        {
+          "fire": "1",
+          "water": "2",
+          "thunder": "2",
+          "ice": "5",
+          "dragon": "5"
+        }
+      ],
+      "ride-action": [
+        {
+          "active": "",
+          "pasive": "den detect"
+        }
+      ],
+      "eggs": [
+        {
+          "bg-egg": "rgb(58,95,254)",
+          "pt-egg": "/assets/images/091/pattern1.png"
+        },
+        {
+          "bg-egg": "rgb(188,239,247)",
+          "pt-egg": "/assets/images/091/pattern1.png"
+        },
+        {
+          "bg-egg": "rgb(58,95,254)",
+          "pt-egg": "/assets/images/091/pattern2.png"
+        },
+        {
+          "bg-egg": "rgb(188,239,247)",
+          "pt-egg": "/assets/images/091/pattern2.png"
+        }
+      ]
+    },
+    {
+      "id": "092",
+      "rank": "4",
+      "monster": "jade barroth",
+      "monstie": "true",
+      "tendency": "speed",
+      "size": "large",
+      "type": "brute wyvern",
+      "img": "/assets/images/092/render.png",
+      "thumbnail": "/assets/images/092/icon.webp",
+      "descrip": "a subspecies of Barroth. Often seen in polar regions, bashing their crowns against the ice.",
+      "stats": [
+        {
+          "health": "5",
+          "attack": "1",
+          "defense": "4",
+          "agility": "3"
+        }
+      ],
+      "attact": [
+        {
+          "fire": "1",
+          "water": "4",
+          "thunder": "3",
+          "ice": "5",
+          "dragon": "3"
+        }
+      ],
+      "defense": [
+        {
+          "fire": "1",
+          "water": "5",
+          "thunder": "3",
+          "ice": "5",
+          "dragon": "3"
+        }
+      ],
+      "ride-action": [
+        {
+          "active": "dig",
+          "pasive": "insect detect"
+        }
+      ],
+      "eggs": [
+        {
+          "bg-egg": "rgb(0,158,160)",
+          "pt-egg": "/assets/images/092/pattern1.png"
+        },
+        {
+          "bg-egg": "rgb(255,189,47)",
+          "pt-egg": "/assets/images/092/pattern1.png"
+        },
+        {
+          "bg-egg": "rgb(0,158,160)",
+          "pt-egg": "/assets/images/092/pattern2.png"
+        },
+        {
+          "bg-egg": "rgb(255,189,47)",
+          "pt-egg": "/assets/images/092/pattern2.png"
+        }
+      ]
+    },
+    {
+      "id": "093",
+      "rank": "5",
+      "monster": "barioth",
+      "monstie": "true",
+      "tendency": "speed",
+      "size": "large",
+      "type": "flying wyvern",
+      "img": "/assets/images/093/render.png",
+      "thumbnail": "/assets/images/093/icon.webp",
+      "descrip": "flying wyverns that rule the frozen wastes. Spikily scaled wings and tail allow them to run effortlessly across ice.",
+      "stats": [
+        {
+          "health": "5",
+          "attack": "4",
+          "defense": "4",
+          "agility": "3"
+        }
+      ],
+      "attact": [
+        {
+          "fire": "1",
+          "water": "3",
+          "thunder": "3",
+          "ice": "5",
+          "dragon": "3"
+        }
+      ],
+      "defense": [
+        {
+          "fire": "1",
+          "water": "3",
+          "thunder": "3",
+          "ice": "5",
+          "dragon": "3"
+        }
+      ],
+      "ride-action": [
+        {
+          "active": "rock smash",
+          "pasive": "fly"
+        }
+      ],
+      "eggs": [
+        {
+          "bg-egg": "rgb(247,241,195)",
+          "pt-egg": "/assets/images/093/pattern1.png"
+        },
+        {
+          "bg-egg": "rgb(115,229,212)",
+          "pt-egg": "/assets/images/093/pattern1.png"
+        },
+        {
+          "bg-egg": "rgb(247,241,195)",
+          "pt-egg": "/assets/images/093/pattern2.png"
+        },
+        {
+          "bg-egg": "rgb(115,229,212)",
+          "pt-egg": "/assets/images/093/pattern2.png"
+        }
+      ]
+    },
+    {
+      "id": "094",
+      "rank": "6",
+      "monster": "sand barioth",
+      "monstie": "true",
+      "tendency": "speed",
+      "size": "large",
+      "type": "flying wyvern",
+      "img": "/assets/images/094/render.png",
+      "thumbnail": "/assets/images/094/icon.webp",
+      "descrip": "a subspecies of Barioth. Its breath is strong enough to generate tornados among the desert sands.",
+      "stats": [
+        {
+          "health": "5",
+          "attack": "3",
+          "defense": "4",
+          "agility": "3"
+        }
+      ],
+      "attact": [
+        {
+          "fire": "5",
+          "water": "3",
+          "thunder": "3",
+          "ice": "2",
+          "dragon": "3"
+        }
+      ],
+      "defense": [
+        {
+          "fire": "5",
+          "water": "3",
+          "thunder": "5",
+          "ice": "1",
+          "dragon": "3"
+        }
+      ],
+      "ride-action": [
+        {
+          "active": "rock smash",
+          "pasive": "fly"
+        }
+      ],
+      "eggs": [
+        {
+          "bg-egg": "rgb(255,79,79)",
+          "pt-egg": "/assets/images/094/pattern1.png"
+        },
+        {
+          "bg-egg": "rgb(223,96,246)",
+          "pt-egg": "/assets/images/094/pattern1.png"
+        },
+        {
+          "bg-egg": "rgb(255,79,79)",
+          "pt-egg": "/assets/images/094/pattern2.png"
+        },
+        {
+          "bg-egg": "rgb(223,96,246)",
+          "pt-egg": "/assets/images/094/pattern2.png"
+        }
+      ]
+    },
+    {
+      "id": "096",
+      "rank": "7",
+      "monster": "stygian zinogre",
+      "monstie": "true",
+      "tendency": "power",
+      "size": "large",
+      "type": "fanged wyvern",
+      "img": "/assets/images/096/render.png",
+      "thumbnail": "/assets/images/096/icon.webp",
+      "descrip": "feeding on Dracophage Bugs has given this subspecies access to unheard of brute strength.",
+      "stats": [
+        {
+          "health": "5",
+          "attack": "5",
+          "defense": "4",
+          "agility": "3"
+        }
+      ],
+      "attact": [
+        {
+          "fire": "3",
+          "water": "3",
+          "thunder": "2",
+          "ice": "3",
+          "dragon": "5"
+        }
+      ],
+      "defense": [
+        {
+          "fire": "3",
+          "water": "3",
+          "thunder": "1",
+          "ice": "3",
+          "dragon": "5"
+        }
+      ],
+      "ride-action": [
+        {
+          "active": "jump",
+          "pasive": ""
+        }
+      ],
+      "eggs": [
+        {
+          "bg-egg": "rgb(90,44,220)",
+          "pt-egg": "/assets/images/096/pattern1.png"
+        },
+        {
+          "bg-egg": "rgb(255,134,219)",
+          "pt-egg": "/assets/images/096/pattern1.png"
+        },
+        {
+          "bg-egg": "rgb(90,44,220)",
+          "pt-egg": "/assets/images/096/pattern2.png"
+        },
+        {
+          "bg-egg": "rgb(255,134,219)",
+          "pt-egg": "/assets/images/096/pattern2.png"
+        }
+      ]
+    },
+    {
+      "id": "097",
+      "rank": "8",
+      "monster": "brachydios",
+      "monstie": "true",
+      "tendency": "power",
+      "size": "large",
+      "type": "brute wyvern",
+      "img": "/assets/images/097/render.png",
+      "thumbnail": "/assets/images/097/icon.webp",
+      "descrip": "brute wyvern coated in a volatile substance. Its saliva can be used to ignite this coat, with explosive results.",
+      "stats": [
+        {
+          "health": "5",
+          "attack": "4",
+          "defense": "4",
+          "agility": "3"
+        }
+      ],
+      "attact": [
+        {
+          "fire": "5",
+          "water": "3",
+          "thunder": "3",
+          "ice": "3",
+          "dragon": "3"
+        }
+      ],
+      "defense": [
+        {
+          "fire": "5",
+          "water": "1",
+          "thunder": "3",
+          "ice": "3",
+          "dragon": "3"
+        }
+      ],
+      "ride-action": [
+        {
+          "active": "roar",
+          "pasive": "mega rock smash"
+        }
+      ],
+      "eggs": [
+        {
+          "bg-egg": "rgb(39,79,228)",
+          "pt-egg": "/assets/images/097/pattern1.png"
+        },
+        {
+          "bg-egg": "rgb(233,112,244)",
+          "pt-egg": "/assets/images/097/pattern1.png"
+        },
+        {
+          "bg-egg": "rgb(39,79,228)",
+          "pt-egg": "/assets/images/097/pattern2.png"
+        },
+        {
+          "bg-egg": "rgb(233,112,244)",
+          "pt-egg": "/assets/images/097/pattern2.png"
+        }
+      ]
+    },
+    {
+      "id": "098",
+      "rank": "8",
+      "monster": "rajang",
+      "monstie": "true",
+      "tendency": "power",
+      "size": "large",
+      "type": "fanged beasts",
+      "img": "/assets/images/098/render.png",
+      "thumbnail": "/assets/images/098/icon.webp",
+      "descrip": "ultra-aggressive Fanged Beasts. Widely regarded as the pinnacle in unparalleled physical prowess.",
+      "stats": [
+        {
+          "health": "4",
+          "attack": "5",
+          "defense": "4",
+          "agility": "4"
+        }
+      ],
+      "attact": [
+        {
+          "fire": "3",
+          "water": "3",
+          "thunder": "5",
+          "ice": "2",
+          "dragon": "3"
+        }
+      ],
+      "defense": [
+        {
+          "fire": "3",
+          "water": "3",
+          "thunder": "5",
+          "ice": "1",
+          "dragon": "5"
+        }
+      ],
+      "ride-action": [
+        {
+          "active": "mega breaker",
+          "pasive": "nest detect"
+        }
+      ],
+      "eggs": [
+        {
+          "bg-egg": "rgb(64,19,19)",
+          "pt-egg": "/assets/images/098/pattern1.png"
+        },
+        {
+          "bg-egg": "",
+          "pt-egg": "/assets/images/098/pattern1.png"
+        },
+        {
+          "bg-egg": "rgb(64,19,19)",
+          "pt-egg": "/assets/images/098/pattern2.png"
+        },
+        {
+          "bg-egg": "",
+          "pt-egg": "/assets/images/098/pattern2.png"
+        }
+      ]
+    },
+    {
+      "id": "099",
+      "rank": "8",
+      "monster": "kirin",
+      "monstie": "true",
+      "tendency": "speed",
+      "size": "large",
+      "type": "elder dragon",
+      "img": "/assets/images/099/render.png",
+      "thumbnail": "/assets/images/099/icon.webp",
+      "descrip": "lightning-wielding mystical creature. Classified as an Elder Dragon, but its true nature remains a mystery.",
+      "stats": [
+        {
+          "health": "1",
+          "attack": "4",
+          "defense": "4",
+          "agility": "5"
+        }
+      ],
+      "attact": [
+        {
+          "fire": "2",
+          "water": "3",
+          "thunder": "5",
+          "ice": "3",
+          "dragon": "3"
+        }
+      ],
+      "defense": [
+        {
+          "fire": "1",
+          "water": "1",
+          "thunder": "5",
+          "ice": "5",
+          "dragon": "5"
+        }
+      ],
+      "ride-action": [
+        {
+          "active": "jump",
+          "pasive": ""
+        }
+      ],
+      "eggs": [
+        {
+          "bg-egg": "rgb(211,239,255)",
+          "pt-egg": "/assets/images/099/pattern1.png"
+        },
+        {
+          "bg-egg": "rgb(255,204,0)",
+          "pt-egg": "/assets/images/099/pattern1.png"
+        },
+        {
+          "bg-egg": "rgb(211,239,255)",
+          "pt-egg": "/assets/images/099/pattern2.png"
+        },
+        {
+          "bg-egg": "rgb(255,204,0)",
+          "pt-egg": "/assets/images/099/pattern2.png"
+        }
+      ]
+    },
+    {
+      "id": "102",
+      "rank": "6",
+      "monster": "monoblos",
+      "monstie": "true",
+      "tendency": "power",
+      "size": "large",
+      "type": "flying wyvern",
+      "img": "/assets/images/102/render.png",
+      "thumbnail": "/assets/images/102/icon.webp",
+      "descrip": "endowed with an impressive cranial horn. It uses its horn in brutal attacks, screeching ear-splitting war cries.",
+      "stats": [
+        {
+          "health": "4",
+          "attack": "4",
+          "defense": "5",
+          "agility": "3"
+        }
+      ],
+      "attact": [
+        {
+          "fire": "3",
+          "water": "5",
+          "thunder": "2",
+          "ice": "3",
+          "dragon": "3"
+        }
+      ],
+      "defense": [
+        {
+          "fire": "3",
+          "water": "5",
+          "thunder": "1",
+          "ice": "3",
+          "dragon": "3"
+        }
+      ],
+      "ride-action": [
+        {
+          "active": "roar",
+          "pasive": "dig"
+        }
+      ],
+      "eggs": [
+        {
+          "bg-egg": "rgb(255,140,27)",
+          "pt-egg": "/assets/images/102/pattern1.png"
+        },
+        {
+          "bg-egg": "rgb(250,156,174)",
+          "pt-egg": "/assets/images/102/pattern1.png"
+        },
+        {
+          "bg-egg": "rgb(255,140,27)",
+          "pt-egg": "/assets/images/102/pattern2.png"
+        },
+        {
+          "bg-egg": "rgb(250,156,174)",
+          "pt-egg": "/assets/images/102/pattern2.png"
+        }
+      ]
+    },
+    {
+      "id": "103",
+      "rank": "7",
+      "monster": "seregios",
+      "monstie": "true",
+      "tendency": "technique",
+      "size": "large",
+      "type": "flying wyvern",
+      "img": "/assets/images/103/render.png",
+      "thumbnail": "/assets/images/103/icon.webp",
+      "descrip": "flying wyvern known for its lustrous golden scales. Its scales can be launched at prey in high-speed attacks.",
+      "stats": [
+        {
+          "health": "5",
+          "attack": "4",
+          "defense": "4",
+          "agility": "4"
+        }
+      ],
+      "attact": [
+        {
+          "fire": "5",
+          "water": "3",
+          "thunder": "3",
+          "ice": "3",
+          "dragon": "3"
+        }
+      ],
+      "defense": [
+        {
+          "fire": "5",
+          "water": "3",
+          "thunder": "1",
+          "ice": "3",
+          "dragon": "3"
+        }
+      ],
+      "ride-action": [
+        {
+          "active": "fly",
+          "pasive": ""
+        }
+      ],
+      "eggs": [
+        {
+          "bg-egg": "rgb(255,215,27)",
+          "pt-egg": "/assets/images/103/pattern1.png"
+        },
+        {
+          "bg-egg": "rgb(255,189,229)",
+          "pt-egg": "/assets/images/103/pattern1.png"
+        },
+        {
+          "bg-egg": "rgb(255,215,27)",
+          "pt-egg": "/assets/images/103/pattern2.png"
+        },
+        {
+          "bg-egg": "rgb(255,189,229)",
+          "pt-egg": "/assets/images/103/pattern2.png"
+        }
+      ]
+    },
+    {
+      "id": "104",
+      "rank": "9",
+      "monster": "golden rathian",
+      "monstie": "true",
+      "tendency": "power",
+      "size": "large",
+      "type": "flying wyverns",
+      "img": "/assets/images/104/render.png",
+      "thumbnail": "/assets/images/104/icon.webp",
+      "descrip": "a rare Rathian subspecies. Its majestic golden sheen resembles the glow of the full moon.",
+      "stats": [
+        {
+          "health": "5",
+          "attack": "5",
+          "defense": "4",
+          "agility": "3"
+        }
+      ],
+      "attact": [
+        {
+          "fire": "5",
+          "water": "2",
+          "thunder": "1",
+          "ice": "3",
+          "dragon": "5"
+        }
+      ],
+      "defense": [
+        {
+          "fire": "5",
+          "water": "2",
+          "thunder": "1",
+          "ice": "3",
+          "dragon": "5"
+        }
+      ],
+      "ride-action": [
+        {
+          "active": "",
+          "pasive": "den detect"
+        }
+      ],
+      "eggs": [
+        {
+          "bg-egg": "rgb(255,192,0)",
+          "pt-egg": "/assets/images/104/pattern1.png"
+        },
+        {
+          "bg-egg": "rgb(94,203,239)",
+          "pt-egg": "/assets/images/104/pattern1.png"
+        },
+        {
+          "bg-egg": "rgb(255,192,0)",
+          "pt-egg": "/assets/images/104/pattern2.png"
+        },
+        {
+          "bg-egg": "rgb(94,203,239)",
+          "pt-egg": "/assets/images/104/pattern2.png"
+        }
+      ]
+    },
+    {
+      "id": "105",
+      "rank": "9",
+      "monster": "silver rathalos",
+      "monstie": "true",
+      "tendency": "power",
+      "size": "large",
+      "type": "flying wyvern",
+      "img": "/assets/images/105/render.png",
+      "thumbnail": "/assets/images/105/icon.webp",
+      "descrip": "a rare Rathalos subspecies. Its piercing silver shimmer resembles the blazing sun.",
+      "stats": [
+        {
+          "health": "5",
+          "attack": "5",
+          "defense": "4",
+          "agility": "3"
+        }
+      ],
+      "attact": [
+        {
+          "fire": "5",
+          "water": "1",
+          "thunder": "2",
+          "ice": "3",
+          "dragon": "5"
+        }
+      ],
+      "defense": [
+        {
+          "fire": "5",
+          "water": "1",
+          "thunder": "2",
+          "ice": "3",
+          "dragon": "5"
+        }
+      ],
+      "ride-action": [
+        {
+          "active": "fly",
+          "pasive": ""
+        }
+      ],
+      "eggs": [
+        {
+          "bg-egg": "rgb(217,213,203)",
+          "pt-egg": "/assets/images/105/pattern1.png"
+        },
+        {
+          "bg-egg": "rgb(255,239,124)",
+          "pt-egg": "/assets/images/105/pattern1.png"
+        },
+        {
+          "bg-egg": "rgb(217,213,203)",
+          "pt-egg": "/assets/images/105/pattern2.png"
+        },
+        {
+          "bg-egg": "rgb(255,239,124)",
+          "pt-egg": "/assets/images/105/pattern2.png"
+        }
+      ]
+    },
+  
+    {
+      "id": "106",
+      "rank": "9",
+      "monster": "kushala daora",
+      "monstie": "true",
+      "tendency": "technique",
+      "size": "large",
+      "type": "elder dragon",
+      "img": "/assets/images/106/render.png",
+      "thumbnail": "/assets/images/106/icon.webp",
+      "descrip": "eldеr Dragon clad in mеtal plating. Gеnеratеs storms whеrеvеr it goеs. Gеtting closе to it is no mеan fеat.",
+      "stats": [
+        {
+          "health": "4",
+          "attack": "5",
+          "defense": "4",
+          "agility": "3"
+        }
+      ],
+      "attact": [
+        {
+          "fire": "3",
+          "water": "3",
+          "thunder": "2",
+          "ice": "5",
+          "dragon": "4"
+        }
+      ],
+      "defense": [
+        {
+          "fire": "3",
+          "water": "5",
+          "thunder": "1",
+          "ice": "5",
+          "dragon": "1"
+        }
+      ],
+      "ride-action": [
+        {
+          "active": "fly",
+          "pasive": ""
+        }
+      ],
+      "eggs": [
+        {
+          "bg-egg": "",
+          "pt-egg": ""
+        },
+        {
+          "bg-egg": "",
+          "pt-egg": ""
+        },
+        {
+          "bg-egg": "",
+          "pt-egg": ""
+        },
+        {
+          "bg-egg": "rgb(255,239,124)",
+          "pt-egg": ""
+        }
+      ]
+    },
+    
+    {
+      "id": "107",
+      "rank": "?",
+      "monster": "silver rathalos",
+      "monstie": "true",
+      "tendency": "power",
+      "size": "large",
+      "type": "elder dragon",
+      "img": "/assets/images/107/render.png",
+      "thumbnail": "/assets/images/107/icon.webp",
+      "descrip": "wrеathеd in flamе and wiеlding blistеring brеath attacks, thе Guild monitors its movеmеnts and moods.",
+      "stats": [
+        {
+          "health": "",
+          "attack": "",
+          "defense": "",
+          "agility": ""
+        }
+      ],
+      "attact": [
+        {
+          "fire": "",
+          "water": "",
+          "thunder": "",
+          "ice": "",
+          "dragon": ""
+        }
+      ],
+      "defense": [
+        {
+          "fire": "",
+          "water": "",
+          "thunder": "",
+          "ice": "",
+          "dragon": ""
+        }
+      ],
+      "ride-action": [
+        {
+          "active": "",
+          "pasive": ""
+        }
+      ],
+      "eggs": [
+        {
+          "bg-egg": "",
+          "pt-egg": ""
+        },
+        {
+          "bg-egg": "",
+          "pt-egg": ""
+        },
+        {
+          "bg-egg": "",
+          "pt-egg": ""
+        },
+        {
+          "bg-egg": "",
+          "pt-egg": ""
+        }
+      ]
+    },
+    {
+      "id": "109",
+      "rank": "9",
+      "monster": "the great poggie",
+      "monstie": "true",
+      "tendency": "power",
+      "size": "???",
+      "type": "unknown type",
+      "img": "/assets/images/109/render.png",
+      "thumbnail": "/assets/images/109/icon.webp",
+      "descrip": "(?)",
+      "stats": [
+        {
+          "health": "3",
+          "attack": "5",
+          "defense": "2",
+          "agility": "2"
+        }
+      ],
+      "attact": [
+        {
+          "fire": "3",
+          "water": "3",
+          "thunder": "3",
+          "ice": "3",
+          "dragon": "3"
+        }
+      ],
+      "defense": [
+        {
+          "fire": "3",
+          "water": "3",
+          "thunder": "3",
+          "ice": "3",
+          "dragon": "3"
+        }
+      ],
+      "ride-action": [
+        {
+          "active": "dig",
+          "pasive": "charge"
+        }
+      ],
+      "eggs": [
+        {
+          "bg-egg": "rgb(155,102,243)",
+          "pt-egg": "/assets/images/109/pattern1.png"
+        },
+        {
+          "bg-egg": "rgb(155,102,243)",
+          "pt-egg": "/assets/images/109/pattern1.png"
+        },
+        {
+          "bg-egg": "rgb(155,102,243)",
+          "pt-egg": "/assets/images/109/pattern2.png"
+        },
+        {
+          "bg-egg": "rgb(155,102,243)",
+          "pt-egg": "/assets/images/109/pattern2.png"
+        }
+      ]
+    },
+    {
+      "id": "110",
+      "rank": "7",
+      "monster": "white monoblos",
+      "monstie": "true",
+      "tendency": "power",
+      "size": "large",
+      "type": "flying wyvern",
+      "img": "/assets/images/110/render.png",
+      "thumbnail": "/assets/images/110/icon.webp",
+      "descrip": "fiеrcеr than its cousins, this whitе subspеciеs should bе approachеd with thе utmost caution.",
+      "stats": [
+        {
+          "health": "3",
+          "attack": "5",
+          "defense": "4",
+          "agility": "3"
+        }
+      ],
+      "attact": [
+        {
+          "fire": "3",
+          "water": "5",
+          "thunder": "3",
+          "ice": "1",
+          "dragon": "3"
+        }
+      ],
+      "defense": [
+        {
+          "fire": "3",
+          "water": "5",
+          "thunder": "3",
+          "ice": "1",
+          "dragon": "3"
+        }
+      ],
+      "ride-action": [
+        {
+          "active": "dig",
+          "pasive": "roar"
+        }
+      ],
+      "eggs": [
+        {
+          "bg-egg": "rgb(220,215,196)",
+          "pt-egg": "/assets/images/110/pattern1.png"
+        },
+        {
+          "bg-egg": "rgb(255,239,124)",
+          "pt-egg": "/assets/images/110/pattern1.png"
+        },
+        {
+          "bg-egg": "rgb(220,215,196)",
+          "pt-egg": "/assets/images/110/pattern2.png"
+        },
+        {
+          "bg-egg": "rgb(255,239,124)",
+          "pt-egg": "/assets/images/110/pattern2.png"
+        }
+      ]
+    },
+    {
+      "id": "111",
+      "rank": "9",
+      "monster": "molten tigrex",
+      "monstie": "true",
+      "tendency": "power",
+      "size": "large",
+      "type": "flying wyvern",
+      "img": "/assets/images/111/render.png",
+      "thumbnail": "/assets/images/111/icon.webp",
+      "descrip": "a rare Tigrex subspecies. Its existence is unconfirmed due to lack of reliable, and living, eye-witness accounts.",
+      "stats": [
+        {
+          "health": "3",
+          "attack": "5",
+          "defense": "4",
+          "agility": "3"
+        }
+      ],
+      "attact": [
+        {
+          "fire": "5",
+          "water": "2",
+          "thunder": "4",
+          "ice": "4",
+          "dragon": "4"
+        }
+      ],
+      "defense": [
+        {
+          "fire": "5",
+          "water": "1",
+          "thunder": "3",
+          "ice": "3",
+          "dragon": "3"
+        }
+      ],
+      "ride-action": [
+        {
+          "active": "climb",
+          "pasive": "charge"
+        }
+      ],
+      "eggs": [
+        {
+          "bg-egg": "rgb(115,28,28)",
+          "pt-egg": "/assets/images/111/pattern1.png"
+        },
+        {
+          "bg-egg": "rgb(69,210,46)",
+          "pt-egg": "/assets/images/111/pattern1.png"
+        },
+        {
+          "bg-egg": "rgb(115,28,28)",
+          "pt-egg": "/assets/images/111/pattern2.png"
+        },
+        {
+          "bg-egg": "rgb(69,210,46)",
+          "pt-egg": "/assets/images/111/pattern2.png"
+        }
+      ]
+    },
+    {
+      "id": "112",
+      "rank": "8",
+      "monster": "Oroshi Kirin",
+      "monstie": "true",
+      "tendency": "speed",
+      "size": "large",
+      "type": "elder dragon",
+      "img": "/assets/images/112/render.png",
+      "thumbnail": "/assets/images/112/icon.webp",
+      "descrip": "mythical beasts that few have encountered. It is said that temperatures around them plummet below zero.",
+      "stats": [
+        {
+          "health": "1",
+          "attack": "4",
+          "defense": "4",
+          "agility": "5"
+        }
+      ],
+      "attact": [
+        {
+          "fire": "2",
+          "water": "3",
+          "thunder": "3",
+          "ice": "5",
+          "dragon": "3"
+        }
+      ],
+      "defense": [
+        {
+          "fire": "1",
+          "water": "1",
+          "thunder": "5",
+          "ice": "5",
+          "dragon": "5"
+        }
+      ],
+      "ride-action": [
+        {
+          "active": "jump",
+          "pasive": ""
+        }
+      ],
+      "eggs": [
+        {
+          "bg-egg": "rgb(14,90,192)",
+          "pt-egg": "/assets/images/112/pattern1.png"
+        },
+        {
+          "bg-egg": "rgb(240,146,186)",
+          "pt-egg": "/assets/images/112/pattern1.png"
+        },
+        {
+          "bg-egg": "rgb(14,90,192)",
+          "pt-egg": "/assets/images/112/pattern2.png"
+        },
+        {
+          "bg-egg": "rgb(240,146,186)",
+          "pt-egg": "/assets/images/112/pattern2.png"
+        }
+      ]
+    }
+  ]
+}
