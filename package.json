@@ -1,0 +1,30 @@
+{
+  "name": "monsties",
+  "version": "1.0.0",
+  "description": "MHST monsties API",
+  "main": "server.js",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhosno/monsties.git"
+  },
+  "keywords": [
+    "MHST",
+    "monsties",
+    "api",
+    "apirestful"
+  ],
+  "author": "Jhosno",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jhosno/monsties/issues"
+  },
+  "homepage": "https://github.com/jhosno/monsties#readme"
+}
