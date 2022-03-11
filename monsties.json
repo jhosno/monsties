@@ -876,8 +876,8 @@
       "tendency": "technique",
       "size": "large",
       "type": "bird wyvern",
-      "img": "",
-      "thumbnail": "https://static.wikia.nocookie.net/monsterhunter/images/1/1d/MHST-Gypceros_Icon.png",
+      "img": "/assets/images/031/render.png",
+      "thumbnail": "assets/images/031/icon.webp",
       "descrip": "crested Bird Wyverns. They strike their crests to generate blinding flashes and dazzle their enemies.",
       "stats": [
         {
@@ -1868,8 +1868,8 @@
       "tendency": "speed",
       "size": "large",
       "type": "bird wyvern",
-      "img": "/assets/images//render.png",
-      "thumbnail": "/assets/images/icon.webp",
+      "img": "/assets/images/068/render.png",
+      "thumbnail": "assets/images/068/icon.webp",
       "descrip": "alpha monsters that lead Jaggi. They issue complex commands to the pack via their howls.",
       "stats": [
         {
