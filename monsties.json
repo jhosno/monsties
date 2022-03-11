@@ -71,7 +71,7 @@
       "size": "large",
       "type": "bird wyverns",
       "img": "/assets/images/007/render.png",
-      "thumbnail": "assets/007/icon.webp",
+      "thumbnail": "assets/images/007/icon.webp",
       "descrip": "alpha monsters that lead the smaller Velociprey. Note their larger size, impressive frill, and sharper claws.",
       "stats": [
         {
@@ -815,7 +815,7 @@
       "size": "large",
       "type": "leviathan",
       "img": "/assets/images/030/render.png",
-      "thumbnail": "assets/030/icon.webp",
+      "thumbnail": "assets/images/030/icon.webp",
       "descrip": "royal ludroth use their sponge-like neck scales to absorb water and prevent dehydration.",
       "stats": [
         {
@@ -1869,7 +1869,7 @@
       "size": "large",
       "type": "bird wyvern",
       "img": "/assets/images//render.png",
-      "thumbnail": "/assets/images//icon.webp",
+      "thumbnail": "/assets/images/icon.webp",
       "descrip": "alpha monsters that lead Jaggi. They issue complex commands to the pack via their howls.",
       "stats": [
         {
