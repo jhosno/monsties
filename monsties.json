@@ -1988,7 +1988,7 @@
     {
       "id": "070",
       "rank": "4",
-      "monster": "purple Lludroth",
+      "monster": "purple ludroth",
       "monstie": "true",
       "tendency": "power",
       "size": "large",
@@ -2546,7 +2546,7 @@
     {
       "id": "079",
       "rank": "6",
-      "monster": "Green Nargacuga",
+      "monster": "green nargacuga",
       "monstie": "true",
       "tendency": "speed",
       "size": "large",
@@ -4098,7 +4098,7 @@
     {
       "id": "112",
       "rank": "8",
-      "monster": "Oroshi Kirin",
+      "monster": "oroshi kirin",
       "monstie": "true",
       "tendency": "speed",
       "size": "large",
